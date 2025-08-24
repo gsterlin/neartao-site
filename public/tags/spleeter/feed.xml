@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spleeter on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/spleeter/</link>
+    <description>Recent content in Spleeter on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 May 2020 23:27:23 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/spleeter/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stems from Finished Tracks - Splitting Tracks with Spleeter</title>
+      <link>http://localhost:1313/2020/05/19/stems-from-finished-tracks-splitting-tracks-with-spleeter/</link>
+      <pubDate>Tue, 19 May 2020 23:27:23 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=444</guid> 
+      <description>&lt;p&gt;I know a lot of folks have been looking for track splitting technology as a holy grail for a while, and figured it&amp;rsquo;d be worth dropping a post. I originally posted this over at MPC Forums &lt;a href=&#34;https://www.mpc-forums.com/viewtopic.php?f=5&amp;amp;t=197608&#34;&gt;https://www.mpc-forums.com/viewtopic.php?f=5&amp;amp;t=197608&lt;/a&gt; so if you&amp;rsquo;re looking for an MPC head&amp;rsquo;s take on this tech&amp;hellip; check it out over that way.&lt;/p&gt;
+&lt;p&gt;First word of warning… this is super nerdy, and requires a fair bit of knowledge to get working. Here&amp;rsquo;s the video I accidentally stumbled upon that turned me on to this tech&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

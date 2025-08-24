@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Family-Time on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/family-time/</link>
+    <description>Recent content in Family-Time on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 May 2020 13:35:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/family-time/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Distanced Gaming</title>
+      <link>http://localhost:1313/2020/05/15/social-distancing-gaming/</link>
+      <pubDate>Fri, 15 May 2020 13:35:58 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=418</guid> 
+      <description>&lt;p&gt;I&amp;rsquo;m just writing this for families that, like mine are separated by distance, and are looking for some ways to be able to socially interact together.&lt;/p&gt;
+&lt;p&gt;When getting together with my extended family, we&amp;rsquo;ve always had a blast playing board games and video games together. Given the current state of social distancing and the miles we are away from each other, it has effectively become impossible to see each other in person.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

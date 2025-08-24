@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nintendo on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/nintendo/</link>
+    <description>Recent content in Nintendo on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Aug 2020 17:40:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nintendo/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020-08-24 - The Big Melt</title>
+      <link>http://localhost:1313/2020/08/24/2020-08-24-the-big-melt/</link>
+      <pubDate>Mon, 24 Aug 2020 17:40:59 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=919</guid> 
+      <description>&lt;p&gt;Articles and videos that hit my feed and some thoughts on them. Just my opinions&amp;hellip; take it or leave it :)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/tech-policy/2020/08/apple-apologizes-to-wordpress-no-longer-requires-free-app-to-add-purchases/&#34;&gt;Apple apologizes to Wordpress, no longer requires free app to add purchases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When I read last week that Apple was removing the Wordpress app from the Apple store I thought things were getting a little strange. The application never had payments in place, and you had to go to the Wordpress site to pay for your subscription. I suspect that given everything going on with Epic and the Fortnight fiasco that Apple is just getting overly sensitive about companies removing their ability to get a 30% cut.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

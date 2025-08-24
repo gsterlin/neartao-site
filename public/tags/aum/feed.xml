@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aum on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/aum/</link>
+    <description>Recent content in Aum on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Jul 2021 13:54:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/aum/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can you get multiple audio interfaces connected to your iPad?</title>
+      <link>http://localhost:1313/2021/07/16/can-you-get-multiple-audio-interfaces-connected-to-your-ipad/</link>
+      <pubDate>Fri, 16 Jul 2021 13:54:53 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2936</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/LAl9KgCQpaQ&#34;&gt;https://youtu.be/LAl9KgCQpaQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The short answer to the question is NO, you cannot have multiple audio interfaces hooked up to your iPad. At least this is probably not going to work the way that you want. I was hoping to use the iPad to route audio around between the iPad, OP-Z, and OP-1, but alas, it&amp;rsquo;s not quite meant to be.&lt;/p&gt;
+&lt;h2 id=&#34;aum&#34;&gt;AUM&lt;/h2&gt;
+&lt;p&gt;In the video I show what happens when you try to do this in AUM, and it is a complete bust, whatever the iPad recognized as the last audio device is the one, and only one, that it will recognize. End of Story.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

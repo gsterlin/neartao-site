@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chase-Bliss-Brothers on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/chase-bliss-brothers/</link>
+    <description>Recent content in Chase-Bliss-Brothers on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Dec 2020 14:04:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/chase-bliss-brothers/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#jamcember - Fortress of Self</title>
+      <link>http://localhost:1313/2020/12/22/jamcember-fortress-of-self/</link>
+      <pubDate>Tue, 22 Dec 2020 14:04:53 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=1472</guid> 
+      <description>&lt;p&gt;Mixing it up a bit for the twenty second track&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/neartao/fortress-of-self&#34;&gt;https://soundcloud.com/neartao/fortress-of-self&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The picture comes courtesy of a trip to Munich. Not so much a tourist type of city, but there&amp;rsquo;s a lot to see there. I think that particular shot came from a train ride that I took with my family to go check out the Olympic Stadium out there. It was interesting to see, but kind of sad at the same time to see something that had so much funding and investment put into it that ended up not being kept up and maintained as much as you&amp;rsquo;d hope. I suspect that a lot of the Olympic areas around the world are like this, and I suppose when things get back to normal I will have to travel around to check out more for myself.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LoFi Buttery Piano - Akai MPC X Program</title>
+      <link>http://localhost:1313/2020/03/08/lofi-buttery-piano-akai-mpc-x-program/</link>
+      <pubDate>Sun, 08 Mar 2020 23:21:10 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=369</guid> 
+      <description>&lt;p&gt;Let me start by explaining the patch a bit, and how I got here&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Life started off on the Akai S950, using piano multi samples from G1 through C4, every sixth note&amp;hellip; My goal was to get some of that S950 12-bit grit and artifacts, but still keep it relatively free of the crazy stretching artifacts you can get by just sampling a single note and stretching it across the entire keyboard. This way, it maintains a lot of the characteristics of a piano, instead of heading into the field of creating what sounds like a more synthetic instrument.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

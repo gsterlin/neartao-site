@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Synth-One on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/synth-one/</link>
+    <description>Recent content in Synth-One on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 May 2021 01:02:43 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/synth-one/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Setup Your Akai MPC Live/X using Bluetooth Midi with your iPad running Synth One</title>
+      <link>http://localhost:1313/2021/05/10/how-to-setup-your-akai-mpc-live-x-using-bluetooth-midi-with-your-ipad-running-synth-one/</link>
+      <pubDate>Tue, 11 May 2021 01:02:43 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2769</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/RaEopA6FjN0&#34;&gt;https://youtu.be/RaEopA6FjN0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Well folks, I&amp;rsquo;m continuing to try and help you out for questions in the comments. Let&amp;rsquo;s see if this Synth One specific video helps. I suspect that the issue with the MPC not seeing audio is due to the user not hooking up the audio outputs from their iPad/iPhone to the MPC, but just a guess. Hopefully this will help.&lt;/p&gt;
+&lt;p&gt;For those who don&amp;rsquo;t know, Midi only carries note data such as what note number and velocity, it does not carry audio information.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

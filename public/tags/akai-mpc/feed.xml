@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Akai-Mpc on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/akai-mpc/</link>
+    <description>Recent content in Akai-Mpc on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Nov 2020 13:51:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/akai-mpc/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MPC Samples - NT S950 Volume 2</title>
+      <link>http://localhost:1313/2020/11/17/mpc-samples-nt-s950-volume-2/</link>
+      <pubDate>Tue, 17 Nov 2020 13:51:59 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=1232</guid> 
+      <description>&lt;p&gt;I spent some more time last night recording off of the Akai S950&amp;hellip; and I can tell you I continue to really dig the low end sound. Before digging in a bit, here is the link:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2020/11/nt-s950-v2.zip&#34;&gt;NT - S950 v2&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2020/11/nt-s950-v2.zip&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Similar to a few days ago, this is MPC X/Live/One formatted for the program file, but the samples are 44.1k/16-bit mono, so you can load them into most MPCs and samplers. I was definitely a bit faster at flying through the low end key group and setting it to record notes down to C0, though I still forgot to check and change C5&amp;hellip; in about half the cases this resulted in one less sample for the program.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPC Samples - NT S950 Volume 1</title>
+      <link>http://localhost:1313/2020/11/15/mpc-samples-nt-s950-volume-1/</link>
+      <pubDate>Sun, 15 Nov 2020 15:44:57 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=1210</guid> 
+      <description>&lt;p&gt;I spent about six hours yesterday recording off samples from my Akai S950, and auto sampling them into my MPC Live mk2. Near the end I think I was starting to get cross eyed. Anyway, if you&amp;rsquo;re interested, I have posted the samples below, and then will get into the details after the break.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2020/11/nt-s950-v1.zip&#34;&gt;NT - S950 v1&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2020/11/nt-s950-v1.zip&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is MPC X/Live/One formatted&amp;hellip; though the samples are 44.1k/16-bit mono, so should load into plenty of samplers. I considered converting this stack into a MPC Expansion, but gave up on the app for now. Maybe later, when I figure out the steps to create previews&amp;hellip; and apparently it wants sequences for each program *shrug*. I watched a few videos on YouTube, and read Tutor&amp;rsquo;s &lt;a href=&#34;https://www.mpc-tutor.com/mpc-expansion-packs-complete-guide/&#34;&gt;Complete Guide to MPC Expansion Packs&lt;/a&gt; but got the impression that you might need to use the MPC Software in order to do some of these things more effectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jammin Keygroups</title>
+      <link>http://localhost:1313/2020/07/31/jammin-keygroups/</link>
+      <pubDate>Fri, 31 Jul 2020 18:15:30 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=832</guid> 
+      <description>&lt;p&gt;Oh before I forget… here&amp;rsquo;s a few key groups that I made, and I did say I would share.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2020/07/nt-bells.zip&#34;&gt;NT - Bells&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2020/07/nt-bells.zip&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The bells are sampled across a few octaves, but not tuned. Should just requires tuning the master, but I did not end up using them and got lazy. Since I am posting it for free, if you cannot do anything with it, well that&amp;rsquo;s on you! For those interested, this is sampled from Eurorack, in particular Elements is doing the heavy lifting, with some very minor FX on it to taste.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Akai MPC Journey (or Why I Sold my MPC X)</title>
+      <link>http://localhost:1313/2020/07/30/my-akai-mpc-journey-or-why-i-sold-my-mpc-x/</link>
+      <pubDate>Thu, 30 Jul 2020 21:05:23 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=819</guid> 
+      <description>&lt;p&gt;My first MPC was the Akai MPC 1k Black. I really cut my teeth on this MPC over the years, and with JJOS it really made the MPC 1k shine. Life was pretty simple, but it had been given an amazing workflow for chopping, sampling, and writing music. I bought it back when the black model was released, and held on to it until just this year. Watching the prices of a lot of the old gear I had sky rocket, it was hard to justify keeping it around, especially since it was living mostly in it&amp;rsquo;s old box. As I&amp;rsquo;ve written about before, I really don&amp;rsquo;t want to keep old gear around for the sake of keeping it, and it was just time to part with the MPC 1k along with a lot of the other gear that has gone out the door, hopefully on to better homes that will appreciate and use the gear to the fullest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moving from Ableton Live to an MPC</title>
+      <link>http://localhost:1313/2020/06/24/moving-from-ableton-live-to-an-mpc/</link>
+      <pubDate>Thu, 25 Jun 2020 00:53:09 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=608</guid> 
+      <description>&lt;p&gt;Here are some explanation I gave over at &lt;a href=&#34;https://www.mpc-forums.com/viewtopic.php?f=48&amp;amp;t=198904&amp;amp;p=1798905#p1798905&#34;&gt;MPC Forums&lt;/a&gt; to help explain how an MPC works if you&amp;rsquo;re coming from and Ableton Live environment.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I came from Ableton myself… and it&amp;rsquo;s a much different environment.&lt;/p&gt;
+&lt;p&gt;The main things to get your head wrapped around on the MPC is sampling and sample management, programs (drums and key groups mostly), tracks and how to drop notes across various tracks to group things, and sequences to hold each section of your song.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Waking to Sunshine - Akai MPC X/Live Program</title>
+      <link>http://localhost:1313/2019/12/31/waking-to-sunshine-akai-mpc-x-live-program/</link>
+      <pubDate>Tue, 31 Dec 2019 17:47:11 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=259</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2019/12/waking-to-sunshine.zip&#34;&gt;Waking to Sunshine&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2019/12/waking-to-sunshine.zip&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve got a relatively small backlog of programs to upload, but it is a backlog none the less. As I said in the previous post, one of my dogs got super sick, and I haven&amp;rsquo;t gotten in the habit of having a lot of posts on standby to cover me when I get busy. Also, I&amp;rsquo;ve played with putting a few Youtube posts together, but I do not really have the proper camera, lighting, and other recording equipment at this time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moody Bass - Akai MPC 1000 Program</title>
+      <link>http://localhost:1313/2019/11/27/moody-bass-akai-mpc-1000-program/</link>
+      <pubDate>Wed, 27 Nov 2019 23:49:12 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=183</guid> 
+      <description>&lt;p&gt;I have been getting back into using guitar pedals for external effects processing, and had some fun messing with the Chase Bliss Mood again. This started life as an Ableton Live clean Stratocaster patch that I put together, and played through the Mood. What I played initially sounded like an unaffected guitar, but with the Mood always listening, and using the old blood side&amp;rsquo;s always listening micro granular in tape mode, I came up with this bass sounding loop &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2019/11/moody-01.wav&#34;&gt;Moody Bass 01&lt;/a&gt;. This was recorded into my MPC 1000, and I sliced it into a drum kit &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2019/11/moody-bass-mpc-1k.zip&#34;&gt;Moody Bass&lt;/a&gt; for the MPC 1000 on JJOS. You can certainly take the initial loop and chop it in a different way, but I decided to just do a relatively clean chop and tightened up the start and end points in the drum kit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Old School Cinema for Akai MPC X/Live</title>
+      <link>http://localhost:1313/2019/10/19/old-school-cinema-for-akai-mpc-x-live/</link>
+      <pubDate>Sat, 19 Oct 2019 14:48:08 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=141</guid> 
+      <description>&lt;p&gt;The patch &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2019/10/nt-old-school-cinema.zip&#34;&gt;Old School Cinema&lt;/a&gt; started life on the Pocket Operator Tonic. I recorded the hits into the Akai S950 at 10khz, because I was afraid that some of the longer bass notes would exhaust the sample memory, and honestly I didn&amp;rsquo;t want to be chopping on the S950 for an hour. I was able to squeeze everything into the roughly 60 seconds of sample time I had available at the 10khz sampling rate. Honestly, I could have probably squeezed it in a bit better, but I was trying to let some of the longer notes ring out.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Akai S950 Clean Bass for MPC X/Live</title>
+      <link>http://localhost:1313/2019/10/19/akai-s950-clean-bass-for-mpc-x-live/</link>
+      <pubDate>Sat, 19 Oct 2019 00:37:19 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=137</guid> 
+      <description>&lt;p&gt;Today is just a &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2019/10/nt-950-analogue-clean-bass-01.zip&#34;&gt;Clean Analogue Bass&lt;/a&gt; recorded on the Akai S950. Nothing too special, and I kept the sample size down. The sample range is from C0 through C4 so there is a pretty good range to play with.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Akai S950 Tape Grand Piano for MPC X/Live</title>
+      <link>http://localhost:1313/2019/10/17/akai-s950-tape-grand-piano-for-mpc-x-live/</link>
+      <pubDate>Thu, 17 Oct 2019 23:53:14 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=106</guid> 
+      <description>&lt;p&gt;Here is my next patch for my MPC X &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2019/10/nt-tape-grand-piano.zip&#34;&gt;Tape Grand Piano&lt;/a&gt;. I started with a multisample Grand Piano sampled into the Akai S950 at C/F note intervals. So samples a bit stretched, but it sounds pleasant enough, and certainly a bit more realistic than the strings a made recently.&lt;/p&gt;
+&lt;p&gt;The patch was again routed through a tape effect to give it some not so subtle tape warble. A pretty big problem that I had making this patch, is that it is over 60 samples, and while the auto sampler in the MPC X/Live is nice, it isn&amp;rsquo;t a complete solution. So I ended up spending a fair amount of time trimming the samples, only to remember that there is still a bug that if you record the content through a single input, it still records the sample as stereo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Akai S950 String Program For MPC Live/X</title>
+      <link>http://localhost:1313/2019/10/16/akai-s950-string-program-for-mpc-live-x/</link>
+      <pubDate>Wed, 16 Oct 2019 21:07:33 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=43</guid> 
+      <description>&lt;p&gt;Hey everybody!&lt;/p&gt;
+&lt;p&gt;Today I spent some time trimming recording in a string sample into the Akai S950.  It was about 20 seconds or so long.  The idea was to make something that could be pitched up reasonably high and still have a reasonable length to it.&lt;/p&gt;
+&lt;p&gt;Once I completed sampling into the S950, I used my Akai MPC Live to create a mono sampled key group patch from the content.  The auto sampler tried to put in loop points, but they were completed busted, so I disabled sample looping.  I have to say, I do like some of the sounds in the lower keys (C0-C1), as the stretching from the S950 sounds pretty heavy and dark.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

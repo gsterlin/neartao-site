@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Safari on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/safari/</link>
+    <description>Recent content in Safari on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Nov 2019 12:49:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/safari/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OS X Catalina - Music Automatically Opening Files Downloaded from Safari</title>
+      <link>http://localhost:1313/2019/11/15/os-x-catalina-music-automatically-opening-files-downloaded-from-safari/</link>
+      <pubDate>Fri, 15 Nov 2019 12:49:38 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=173</guid> 
+      <description>&lt;p&gt;TL;DR go to Safari -&amp;gt; Perferences -&amp;gt; General, and uncheck Open &amp;ldquo;safe&amp;rdquo; files after downloading to disable automatic opening of files downloaded by Safari.&lt;/p&gt;
+&lt;p&gt;A problem I&amp;rsquo;ve had with downloading content in OS X has been that a lot of files will automatically open once you&amp;rsquo;ve downloaded them. For compressed files, it will uncompress them, for PDFs it will automatically open them into Preview, and for audio files it will automatically start playing them in Music. For the compressed files, PDFs and others, I&amp;rsquo;m often not downloading enough of them to be too upset by this feature, but when I am downloading stems, one shots, or other audio content, I don&amp;rsquo;t always want it automatically imported into Music.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

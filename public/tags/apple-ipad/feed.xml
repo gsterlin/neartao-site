@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apple-Ipad on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/apple-ipad/</link>
+    <description>Recent content in Apple-Ipad on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Jul 2021 13:54:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/apple-ipad/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can you get multiple audio interfaces connected to your iPad?</title>
+      <link>http://localhost:1313/2021/07/16/can-you-get-multiple-audio-interfaces-connected-to-your-ipad/</link>
+      <pubDate>Fri, 16 Jul 2021 13:54:53 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2936</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/LAl9KgCQpaQ&#34;&gt;https://youtu.be/LAl9KgCQpaQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The short answer to the question is NO, you cannot have multiple audio interfaces hooked up to your iPad. At least this is probably not going to work the way that you want. I was hoping to use the iPad to route audio around between the iPad, OP-Z, and OP-1, but alas, it&amp;rsquo;s not quite meant to be.&lt;/p&gt;
+&lt;h2 id=&#34;aum&#34;&gt;AUM&lt;/h2&gt;
+&lt;p&gt;In the video I show what happens when you try to do this in AUM, and it is a complete bust, whatever the iPad recognized as the last audio device is the one, and only one, that it will recognize. End of Story.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using Q-Links on your MPC Live/X/One to control Midi CC on your iPad (or other gear)</title>
+      <link>http://localhost:1313/2021/05/07/using-q-links-on-your-mpc-live-x-one-to-control-midi-cc-on-your-ipad-or-other-gear/</link>
+      <pubDate>Fri, 07 May 2021 15:27:54 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2609</guid> 
+      <description>&lt;p&gt;Just a quick video to answer a comment from a viewer, and help show how to use Q-Links on your MPC to control external gear. Since I had it setup already, I just used it all from my iPad, but this will work on other external gear as well.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/0peJwPHkcW0&#34;&gt;https://youtu.be/0peJwPHkcW0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Since I&amp;rsquo;m sure some of the things I was doing in the video will be a little tough to catch from the angle and size of the screen, I&amp;rsquo;m going to outline all the steps below as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Get Audio and Midi from your iPad to your Akai MPC Live/X/One</title>
+      <link>http://localhost:1313/2021/05/07/get-audio-and-midi-from-your-ipad-to-your-akai-mpc-live-x-one/</link>
+      <pubDate>Fri, 07 May 2021 14:59:45 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2602</guid> 
+      <description>&lt;p&gt;Just posting a short video to show the gear I use to get both cabled audio and midi from my iPad to my Akai MPC Live II.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/0NoZIYsK9Hw&#34;&gt;https://youtu.be/0NoZIYsK9Hw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Equipment:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hypershop.com/products/hyperdrive-6-in-1-hub-for-ipad?variant=19332717412414&amp;amp;currency=USD&amp;amp;utm_medium=product_sync&amp;amp;utm_source=google&amp;amp;utm_content=sag_organic&amp;amp;utm_campaign=sag_organic&amp;amp;gclid=EAIaIQobChMI6_zJpem38AIV42xvBB3r6w-6EAQYASABEgJJAfD_BwE&#34;&gt;HyperDrive HD319&lt;/a&gt; - I linked to the Hyper Drive site, but this is around $80-$90. Personally I shopped around and was able to get it with discounts/sales at Best Buy a year ago for $60. It does give you a lot of features though, so definitely worth checking out if it is compatible with your iPad.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Akai MPC Live/X/One Midi USB adaptor with Apple iPad</title>
+      <link>http://localhost:1313/2021/05/07/akai-mpc-live-x-one-midi-usb-adaptor-with-apple-ipad/</link>
+      <pubDate>Fri, 07 May 2021 14:23:43 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2596</guid> 
+      <description>&lt;p&gt;Based on some questions, I decided to put together a quick post on how to use a Midi USB adaptor with your iPad to control your Akai MPC. This should work on any Midi equipped device, but below is the video I created as a short walkthrough.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/E19Dxo7N4uY&#34;&gt;https://youtu.be/E19Dxo7N4uY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Equipment:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.apple.com/shop/product/MJ1M2AM/A/usb-c-to-usb-adapter&#34;&gt;Apple USB-C to USB Adaptor&lt;/a&gt; - Honestly any USB-C to USB Adaptor should work here, but this is what I had on hand to get this to work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Akai MPC Live/X/One Bluetooth Midi and iPad Synth</title>
+      <link>http://localhost:1313/2021/02/08/akai-mpc-live-x-one-bluetooth-midi-and-ipad-synth/</link>
+      <pubDate>Mon, 08 Feb 2021 15:42:59 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2091</guid> 
+      <description>&lt;p&gt;I figured I&amp;rsquo;d do a quick video to build on my last post &lt;a href=&#34;http://localhost:1313/2021/02/03/akai-mpc-live-x-one-bluetooth-midi-with-an-ipad/&#34;&gt;Akai MPC Live/X/One Bluetooth MIDI With an iPad&lt;/a&gt; where I had describe how to get a Bluetooth MIDI connection working. In this post I will cover how to quickly get audio out of your iPad into your MPC, and get the MIDI connection over bluetooth to control/sequence the synthesizer on your iPad.&lt;/p&gt;
+&lt;p&gt;Introduction&lt;/p&gt;
+&lt;p&gt;I recorded another video to go along with the post. If you&amp;rsquo;d prefer to follow step by step instructions I&amp;rsquo;ll also write them up after the video.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Akai MPC Live/X/One Bluetooth Midi With an iPad</title>
+      <link>http://localhost:1313/2021/02/03/akai-mpc-live-x-one-bluetooth-midi-with-an-ipad/</link>
+      <pubDate>Wed, 03 Feb 2021 14:48:13 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=1967</guid> 
+      <description>&lt;p&gt;Setting up Midi over Bluetooth and the MPC is dead simple, and I figured I&amp;rsquo;d take some time to make a quick video and write this up for everybody else to enjoy. You&amp;rsquo;ve at least got to give it a try! I kicked this video off from a post Dan B made over at MPC Forums &lt;a href=&#34;https://www.mpc-forums.com/viewtopic.php?f=48&amp;amp;t=210326&amp;amp;p=1824493#p1824493&#34;&gt;Connecting iPad &amp;amp; EXT Midi Controllers to MPC Live&amp;hellip;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Introduction&lt;/p&gt;
+&lt;p&gt;I just recorded a video to show how to setup Bluetooth Midi between an Akai MPC Live/X/One and an iPad. I have done these steps with an iPhone as well, and suspect that it would work just fine with plenty of other devices that support Midi over Bluetooth as well.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

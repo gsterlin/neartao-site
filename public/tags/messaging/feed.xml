@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Messaging on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/messaging/</link>
+    <description>Recent content in Messaging on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 21 Jun 2020 14:37:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/messaging/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OS X Multi Messaging Client</title>
+      <link>http://localhost:1313/2020/06/21/os-x-multi-messaging-client/</link>
+      <pubDate>Sun, 21 Jun 2020 14:37:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=570</guid> 
+      <description>&lt;p&gt;It seems like the more teams I work with, the more friends and family I have, the more messaging clients I need to work with. Over the years I have been on many services including iMessage, ICQ, AOL Messenger, Google Chat, WhatsApp, Telegram, IRC, Slack, and many more. There are in fact so many messaging applications, that I am not going to bother to list them all.&lt;/p&gt;
+&lt;p&gt;Sure, you can load all of the local apps, but anybody who has tried doing this knows that you end up with a mess in your taskbar, and worse, trying to mute messages can be a real chore when you are in a meeting because you may have 10+ services that need to be silenced.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

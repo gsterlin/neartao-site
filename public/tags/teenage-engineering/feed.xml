@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Teenage-Engineering on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/teenage-engineering/</link>
+    <description>Recent content in Teenage-Engineering on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Oct 2021 00:27:56 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/teenage-engineering/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beatober2021 #06 - Something</title>
+      <link>http://localhost:1313/2021/10/06/beatober2021-06-something/</link>
+      <pubDate>Thu, 07 Oct 2021 00:27:56 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=3347</guid> 
+      <description>&lt;p&gt;And now for something completely different.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/uFkvE6DVNqs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;Today I just decided to do what I could with the pocket operators I have on hand&amp;hellip; PO-32, PO-33, PO-35&amp;hellip; and see what would come from it. I&amp;rsquo;ll definitely get back to the MPC Live and Eurorack, but just needed a change of pace for a bit. Probably will do another PO track or two for the time being and go for something a bit longer, I suspect.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Can you get multiple audio interfaces connected to your iPad?</title>
+      <link>http://localhost:1313/2021/07/16/can-you-get-multiple-audio-interfaces-connected-to-your-ipad/</link>
+      <pubDate>Fri, 16 Jul 2021 13:54:53 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2936</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/LAl9KgCQpaQ&#34;&gt;https://youtu.be/LAl9KgCQpaQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The short answer to the question is NO, you cannot have multiple audio interfaces hooked up to your iPad. At least this is probably not going to work the way that you want. I was hoping to use the iPad to route audio around between the iPad, OP-Z, and OP-1, but alas, it&amp;rsquo;s not quite meant to be.&lt;/p&gt;
+&lt;h2 id=&#34;aum&#34;&gt;AUM&lt;/h2&gt;
+&lt;p&gt;In the video I show what happens when you try to do this in AUM, and it is a complete bust, whatever the iPad recognized as the last audio device is the one, and only one, that it will recognize. End of Story.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPC Forums OP-1 Question...</title>
+      <link>http://localhost:1313/2020/09/04/mpc-forums-op-1-question/</link>
+      <pubDate>Fri, 04 Sep 2020 18:15:03 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=969</guid> 
+      <description>&lt;p&gt;Over at &lt;a href=&#34;https://www.mpc-forums.com/viewtopic.php?f=7&amp;amp;t=201048&amp;amp;start=75&#34;&gt;MPC Forums&lt;/a&gt; Danoc was asking a bit about the OP-1&amp;hellip; here&amp;rsquo;s my response.&lt;/p&gt;
+&lt;p&gt;It’s the Teenage Engineering OP-1. It has taken on the status of being an overpriced (released in 2011’ish at about $799 USD, today sells new for $1299 USD which was the latest price hike in 2019) piece of hipster music production hardware. It’s an interesting piece of gear, but isn’t exactly user friendly&amp;hellip; if you want to push yourself to think outside of the box, it has that in spades, but for me it is not a serious piece of music gear in today’s space.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPC Forums Synth Pop Challenge - Systematic Noise</title>
+      <link>http://localhost:1313/2020/09/03/mpc-forums-synth-pop-challenge-systematic-noise/</link>
+      <pubDate>Thu, 03 Sep 2020 23:04:51 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=963</guid> 
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/EJJWWOHumuc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;This is my third pass at a Synth Pop track. I did some cool stuff on the MPC Live, but it is definitively not Synth Pop. Something I will absolutely put together as a finished track, but both tracks strayed from the Synth Pop sound way too much, and I decided I&amp;rsquo;d give it one more try.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Track - On the Road</title>
+      <link>http://localhost:1313/2020/07/09/track-on-the-road/</link>
+      <pubDate>Thu, 09 Jul 2020 17:06:20 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=681</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/neartao/on-the-road&#34;&gt;https://soundcloud.com/neartao/on-the-road&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a track I have been working on for about a week on the PO-33. All the sampling and mixing was done within the little box. I continue to like this little device because it really forces you to think about a potentially crippling amount of sampling time and a very real four note polyphony limit. Some of the previous tracks I have done really ran into the polyphony wall, and it doesn&amp;rsquo;t exactly drop notes the way I would expect at least.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Track - STBB #695 - Running Forever</title>
+      <link>http://localhost:1313/2020/07/01/track-stbb-695-running-forever/</link>
+      <pubDate>Wed, 01 Jul 2020 23:14:35 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=634</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/neartao/stbb-695-running-forever&#34;&gt;https://soundcloud.com/neartao/stbb-695-running-forever&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This track comes courtesy of &lt;a href=&#34;https://stbbforever.com/viewtopic.php?f=2&amp;amp;t=691&amp;amp;sid=7d0cdf19c7200d2c7faafcb7c573a9ee&#34;&gt;STBB Forever BB #695&lt;/a&gt;, there were two tracks to chop up. The rules were effectively to chop whatever, use your own drums, no external instruments, and you needed to drop a change up in the track. I&amp;rsquo;m interested to see what others do this week.&lt;/p&gt;
+&lt;p&gt;Similar to the MPC BB this week, I was really crunched for time to work on this. This time however I decided I would just do the track in the PO-33, and make it a quick flip. So I loaded the tracks into the MPC, but didn&amp;rsquo;t even bother chopping on the MPC, I just shuffled the starting point around the tracks and sampled in what ever I wanted to start or stop, and was able to get four or five interesting chops pretty quickly from the first track. For the second track, I just sampled roughly a loop, and let the auto chopper do it&amp;rsquo;s magic, or horrible destruction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Track - MPC 283 - Road to Mama</title>
+      <link>http://localhost:1313/2020/06/30/track-mpc-283-road-to-mama/</link>
+      <pubDate>Tue, 30 Jun 2020 23:41:48 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=626</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/neartao/mpcbb-283-road-to-mama&#34;&gt;https://soundcloud.com/neartao/mpcbb-283-road-to-mama&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This picture comes courtesy of Photoshop Camera on the iPhone with one of the goofy filters. I was out RV&amp;rsquo;ing with my family and my parents for a couple of days over the weekend&amp;hellip; which held me up from having time to pull together more of a track. I was split on the track this week, and was messing around on Sunday afternoon on the MPC, and the yesterday I flipped to try to put a track together on the PO-33.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Track - Sounds of the Old Reliquary</title>
+      <link>http://localhost:1313/2020/06/16/track-sounds-of-the-old-reliquary/</link>
+      <pubDate>Tue, 16 Jun 2020 14:09:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=549</guid> 
+      <description>&lt;p&gt;Boy, I thought I had posted this track a while ago&amp;hellip; heck I made it nearly a year ago, but here it is.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/neartao/old-sounds-of-the-reliquary&#34;&gt;https://soundcloud.com/neartao/old-sounds-of-the-reliquary&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I put this track together in about an hour, and it was recorded on the Teenage Engineering OP-1 in conjunction with a Bastl Instruments Micro Granny. I spent a lot of time working out sounds to get it fairly noisy, and making it sound like it had some dark, odd vocal sounding components. The Micro Granny provided a lot of the ground work for those sounds, and I then spent some time to find string instruments on the OP-1 and played them at various tape speeds to get a more stretched out sound.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Older Firmware OP-1 Patches</title>
+      <link>http://localhost:1313/2020/06/07/older-firmware-op-1-patches/</link>
+      <pubDate>Sun, 07 Jun 2020 14:29:04 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=505</guid> 
+      <description>&lt;p&gt;I was looking around for something completely different, and happened to stumble upon this Reddit thread &lt;a href=&#34;https://www.reddit.com/r/OP1users/comments/5gkx43/download_op1_patches_op1_14203/&#34;&gt;[DOWNLOAD] OP-1 Patches (op1_14203)&lt;/a&gt; which was posted to the OP-1 sub forum for users that wanted access to the older patches provided by the older OP-1 firmware. The direct link is currently still available to a google drive folder that somebody was nice enough too put together &lt;a href=&#34;https://drive.google.com/drive/folders/0B6r0Q-Lf6Fe5QVoxV3RBYm5DaFU&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For me, this is an interesting find, because it isn&amp;rsquo;t always easy to find the older firmware for devices, and often when you do find the older firmware it is missing a lot of features and functionality to the point of not wanting to downgrade. What is great about these patches is that they are drop in replacements for the OP-1 and gives you some view into what the older firmware was able to do with sampling and the sound engines, without the need to downgrade your device.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who&#39;s Home - PO-33 #Jamuary</title>
+      <link>http://localhost:1313/2020/01/21/whos-home-po-33-jamuary/</link>
+      <pubDate>Wed, 22 Jan 2020 00:20:33 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=359</guid> 
+      <description>&lt;p&gt;I&amp;rsquo;m not really happy with this, but I also had a bit of a gap for #Jamuary. Guess it was too much to think I&amp;rsquo;d put something together every day. On the other hand, it is freeing to have just taken a few takes, and going for the best of them so that I can move on.&lt;/p&gt;
+&lt;p&gt;There really isn&amp;rsquo;t anything too special here, and I actually sampled way more than I ended up using. Some of the other tracks I&amp;rsquo;ve posted I&amp;rsquo;ve been thinking of going back and actually tracking them out and mixing them up a bit, but this one I was super into last week, and now it just kind of falls flat for me.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Heavens Gate - OP-1 Track</title>
+      <link>http://localhost:1313/2020/01/13/heavens-gate-op-1-track/</link>
+      <pubDate>Mon, 13 Jan 2020 15:18:12 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=354</guid> 
+      <description>&lt;p&gt;I&amp;rsquo;ve had this audio sitting on my OP-1 for a while (okay two weeks), and while I&amp;rsquo;d like to have sampled and chopped it up some, I figured I&amp;rsquo;d send it out into the universe. I had sent the loops over to my father and brother in-law to see if either of them wanted to try and play some guitar over it. Unfortunately that didn&amp;rsquo;t happen. Maybe they were too intimidated, I mean this is super awesome! If you&amp;rsquo;re interested in playing around with or adding something to this track, I&amp;rsquo;d love to hear it, so link something in the comments!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>No More Technology - #Jamuary</title>
+      <link>http://localhost:1313/2020/01/11/no-more-technology-jamuary/</link>
+      <pubDate>Sat, 11 Jan 2020 21:36:47 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=349</guid> 
+      <description>&lt;p&gt;No eurorack modules were harmed in the making of this video. The PO-32 (Tonic) makes up the drums, the PO-35 (Voice) is how I got the &amp;ldquo;No More Technology&amp;rdquo; hook, and&amp;hellip; the lead/bass came from some Eurorack mess. I recorded all of this into Ableton Live for some FX processing. All of this was recorded back in October/November, and I&amp;rsquo;ve meant to create a finished track.&lt;/p&gt;
+&lt;p&gt;In the spirit of #Jamuary though, I figured I&amp;rsquo;d break out some gear and refine the track a bit more. I&amp;rsquo;m really trying to cap myself to about 30-60 minutes of production time this month for each song. This is good in some ways because it&amp;rsquo;s forcing me to get ideas down, but it is bad in a few other ways since I&amp;rsquo;m really not mixing/mastering anything. Leaving this track with a bit more of a tinny sound than I&amp;rsquo;d like, but hey it is what it is.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Its my Jam - PO-33 Track</title>
+      <link>http://localhost:1313/2020/01/10/its-my-jam-po-33-track/</link>
+      <pubDate>Sat, 11 Jan 2020 02:00:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=340</guid> 
+      <description>&lt;p&gt;The image is courtesy of a road trip I did with my family from the East Coast out to Montana. On the way back we stopped at an amethyst mine, and I got some really cool pictures of some older beat up vehicles. There was some really cool stuff going on here, and we got some neat amethyst crystals to bring back home with us.&lt;/p&gt;
+&lt;p&gt;As for the song, nothing too fancy here, just using samples of thumps and bumps from everyday objects. A lot of the magic is just pitching things up and down, using filters&amp;hellip; and then just jamming it out. I&amp;rsquo;m going to stick with the PO-33 a bit longer, but a lot of the initial magic playing around with the FX again is a bit gone, it has now gone from being novel to producing some pretty similar sounds to my ear. The device is still fantastic, and it might just be time for me start considering what I am going to move on to for a device to keep going on making tracks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Glass Mythology - PO-33 Track</title>
+      <link>http://localhost:1313/2020/01/09/glass-mythology-po-33-track/</link>
+      <pubDate>Fri, 10 Jan 2020 02:00:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=330</guid> 
+      <description>&lt;p&gt;The image comes courtesy of a business trip to Bangalore. The pool with the blue lights looked amazing so I had to take a picture. I&amp;rsquo;ll have to keep an eye out for more of these eye catching images&amp;hellip; and maybe I can do a better job getting a &amp;ldquo;live&amp;rdquo; photo on my phone&amp;hellip; or a video&amp;hellip; so I can work out some neat video tricks versus just having a video of me clicking on guitar pedals and such.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Afternoon Breeze - PO-33 Track</title>
+      <link>http://localhost:1313/2020/01/08/afternoon-breeze-po-33-track/</link>
+      <pubDate>Wed, 08 Jan 2020 21:00:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=317</guid> 
+      <description>&lt;p&gt;The image is from my daughter. While we took a trip out to Montana she kept borrowing my phone to take strange pictures with odd filters. This is one of many featuring one of our dogs. It looked intense enough to be a good track image. Enjoy the image of my dog slowly zooming in while listening to a electro song plays!&lt;/p&gt;
+&lt;p&gt;Funny thing&amp;hellip; I was going to do another house track, and I&amp;rsquo;m not sure I&amp;rsquo;d place it quite in that genre, is it electro house? I don&amp;rsquo;t think it is fast enough for Techno&amp;hellip; Somebody who has more refined taste might be able to clarify the music genre for me. I just thought it sounded cool!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Winter Happiness - PO-33 Track</title>
+      <link>http://localhost:1313/2020/01/07/winter-happiness-po-33-track/</link>
+      <pubDate>Tue, 07 Jan 2020 18:40:30 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=308</guid> 
+      <description>&lt;p&gt;I used some Washi tape to label the write and record on the PO-33 on the case. I keep pushing the wrong one and deleting samples or otherwise overwriting stuff I don&amp;rsquo;t want to. I&amp;rsquo;m just not keeping the two clear in my mind. Also, it doesn&amp;rsquo;t help that the write button with the white dot reminds me of a record button&amp;hellip; but yeah, it is still me! :D&lt;/p&gt;
+&lt;p&gt;Apparently I&amp;rsquo;m really sticking with one or two drum loops, some vocals chopped up by and amateur (well the PO-33), an instrument sound, and maybe a bass sound. I&amp;rsquo;m going to have to do something different to push myself to not fall into a track. And&amp;hellip; This track fell out of the sky! Well rather, I just recorded off some more samples to see what I could do to push the PO-33 a bit more. By pushing, I mostly mean doing even more FX and changing the FX up more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Tiny House - PO 33 Track</title>
+      <link>http://localhost:1313/2020/01/07/my-tiny-house-po-33-track/</link>
+      <pubDate>Tue, 07 Jan 2020 02:12:54 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=301</guid> 
+      <description>&lt;p&gt;I had intended in jamming out on the MPC today, but I ended up grabbing the PO 33 again&amp;hellip; Producing another small track. Seriously folks, I am surprised at how much big sound can come out of such a small device! This is maybe 30 minutes worth of playing around max.&lt;/p&gt;
+&lt;p&gt;If you want a laugh, this is maybe seven, max eight, seconds of audio samples. If I actually put the effort in to trim down the wasted space in the drum track, I might be able to get it down to four or five seconds. Honestly, I&amp;rsquo;m not bothered by it, but it really goes to show even with the old school hardware and multiple limitations, those older machines really could knock out some bangers without too much effort.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Early Morning Chat - PO-33 Track</title>
+      <link>http://localhost:1313/2020/01/05/early-morning-chat-po-33-track/</link>
+      <pubDate>Sun, 05 Jan 2020 21:00:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=291</guid> 
+      <description>&lt;p&gt;Although I&amp;rsquo;ve been happily selling off gear, I&amp;rsquo;ve still got the Teenage Engineering Pocket Operators I picked up a while back. I was feeling like putting something together super fast, and while I was planning on recording off samples, creating drum programs, all that fun stuff&amp;hellip; I also didn&amp;rsquo;t want to spend too much time.&lt;/p&gt;
+&lt;p&gt;So&amp;hellip; I reached for my trusty PO-33 and decided to sample in some beats. Originally I was going to use the internal microphone, but while this is sometimes interesting, there was a bit too much background noise (ie, the kid wouldn&amp;rsquo;t stop singing Frozen songs). I had to use the line in, which honestly does tend to have a fuller sound, the microphone is fine, but often it does lack the bottom end a bit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

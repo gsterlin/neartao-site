@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Korg-Triton on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/korg-triton/</link>
+    <description>Recent content in Korg-Triton on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Dec 2019 20:58:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/korg-triton/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Korg Triton Plugin Impressions</title>
+      <link>http://localhost:1313/2019/12/31/korg-triton-plugin-impressions/</link>
+      <pubDate>Tue, 31 Dec 2019 20:58:24 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=267</guid> 
+      <description>&lt;p&gt;While I am normally a bit of a hardware snob lately&amp;hellip; I cannot help but continue to be wow&amp;rsquo;d by just how far software has come, and where software continues to be going. For all the lack of knobs, you often get an incredible amount of features, as well as a reduced price of entry. Sure, you&amp;rsquo;re ignoring the cost of the computer, but most people these days have one anyways.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

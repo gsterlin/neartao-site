@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Akai-Mpc-X on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/akai-mpc-x/</link>
+    <description>Recent content in Akai-Mpc-X on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Jul 2021 18:53:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/akai-mpc-x/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Akai MPC 2.10 Firmware - Drum Kit Track Mute Fix</title>
+      <link>http://localhost:1313/2021/07/27/akai-mpc-2-10-firmware-drum-kit-track-mute-fix/</link>
+      <pubDate>Tue, 27 Jul 2021 18:53:08 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2960</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/HGddY6zAE3Y&#34;&gt;https://youtu.be/HGddY6zAE3Y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For those of you who are hitting issues with Akai MPC 2.10 Firmware and using track mutes going to the same Drum Kit or Key Group, I have come up with a solution using Midi programs.&lt;/p&gt;
+&lt;p&gt;For those of you who want to follow along with my setup the project is available here&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2021/07/mpc-2-10-firmwre-drum-kit-track-test.zip&#34;&gt;MPC 2-10 Firmwre Drum Kit Track Test&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2021/07/mpc-2-10-firmwre-drum-kit-track-test.zip&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sequence 01 has all of the tracks 01-10 pointing at the same drum kit, while Sequence 02 has all of the tracks 01-10 setup as midi tracks and sending their midi data to track 16 which is a drum kit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Syncing your MPC Live mk2/X/One to Eurorak Pamela&#39;s New Workout</title>
+      <link>http://localhost:1313/2021/06/03/syncing-your-mpc-live-mk2-x-one-to-eurorak-pamelas-new-workout/</link>
+      <pubDate>Thu, 03 Jun 2021 16:08:49 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2907</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/sfs5zI07JQw&#34;&gt;https://youtu.be/sfs5zI07JQw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This video shows how to sync up your MPC Live mk2/X/One over CV gates to a Pamela&amp;rsquo;s New Workout.&lt;/p&gt;
+&lt;p&gt;Honestly, I&amp;rsquo;m not too worried about the variance in the BPM that shows up at higher levels. I&amp;rsquo;ve monitored the gates being sent over CV and have seen that it is not dropping gates, so over time the average will be correct, even if there is a small variance in the BPM at a specific gate trigger.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>You just bought an Akai MPC Live/X/One, what next?</title>
+      <link>http://localhost:1313/2021/05/21/you-just-bought-an-akai-mpc-live-x-one-what-next/</link>
+      <pubDate>Fri, 21 May 2021 14:38:23 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2814</guid> 
+      <description>&lt;p&gt;Folks seem to have liked the &lt;a href=&#34;http://localhost:1313/2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/&#34;&gt;You just bought an Akai MPC 500, what next?&lt;/a&gt; post, so it&amp;rsquo;s about time to put one together for the MPC Live/X/One family of MPCs.&lt;/p&gt;
+&lt;h2 id=&#34;internal-storage&#34;&gt;Internal Storage&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;I am moving this to the top, as a warning to MPC buyers. This shouldn&amp;rsquo;t put you off from buying the device, but just to help keep your sanity if you are thinking of purchasing one or have just purchased one.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using Q-Links on your MPC Live/X/One to control Midi CC on your iPad (or other gear)</title>
+      <link>http://localhost:1313/2021/05/07/using-q-links-on-your-mpc-live-x-one-to-control-midi-cc-on-your-ipad-or-other-gear/</link>
+      <pubDate>Fri, 07 May 2021 15:27:54 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2609</guid> 
+      <description>&lt;p&gt;Just a quick video to answer a comment from a viewer, and help show how to use Q-Links on your MPC to control external gear. Since I had it setup already, I just used it all from my iPad, but this will work on other external gear as well.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/0peJwPHkcW0&#34;&gt;https://youtu.be/0peJwPHkcW0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Since I&amp;rsquo;m sure some of the things I was doing in the video will be a little tough to catch from the angle and size of the screen, I&amp;rsquo;m going to outline all the steps below as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Get Audio and Midi from your iPad to your Akai MPC Live/X/One</title>
+      <link>http://localhost:1313/2021/05/07/get-audio-and-midi-from-your-ipad-to-your-akai-mpc-live-x-one/</link>
+      <pubDate>Fri, 07 May 2021 14:59:45 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2602</guid> 
+      <description>&lt;p&gt;Just posting a short video to show the gear I use to get both cabled audio and midi from my iPad to my Akai MPC Live II.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/0NoZIYsK9Hw&#34;&gt;https://youtu.be/0NoZIYsK9Hw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Equipment:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hypershop.com/products/hyperdrive-6-in-1-hub-for-ipad?variant=19332717412414&amp;amp;currency=USD&amp;amp;utm_medium=product_sync&amp;amp;utm_source=google&amp;amp;utm_content=sag_organic&amp;amp;utm_campaign=sag_organic&amp;amp;gclid=EAIaIQobChMI6_zJpem38AIV42xvBB3r6w-6EAQYASABEgJJAfD_BwE&#34;&gt;HyperDrive HD319&lt;/a&gt; - I linked to the Hyper Drive site, but this is around $80-$90. Personally I shopped around and was able to get it with discounts/sales at Best Buy a year ago for $60. It does give you a lot of features though, so definitely worth checking out if it is compatible with your iPad.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Akai MPC Live/X/One Midi USB adaptor with Apple iPad</title>
+      <link>http://localhost:1313/2021/05/07/akai-mpc-live-x-one-midi-usb-adaptor-with-apple-ipad/</link>
+      <pubDate>Fri, 07 May 2021 14:23:43 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2596</guid> 
+      <description>&lt;p&gt;Based on some questions, I decided to put together a quick post on how to use a Midi USB adaptor with your iPad to control your Akai MPC. This should work on any Midi equipped device, but below is the video I created as a short walkthrough.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/E19Dxo7N4uY&#34;&gt;https://youtu.be/E19Dxo7N4uY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Equipment:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.apple.com/shop/product/MJ1M2AM/A/usb-c-to-usb-adapter&#34;&gt;Apple USB-C to USB Adaptor&lt;/a&gt; - Honestly any USB-C to USB Adaptor should work here, but this is what I had on hand to get this to work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Akai MPC Journey (or Why I Sold my MPC X)</title>
+      <link>http://localhost:1313/2020/07/30/my-akai-mpc-journey-or-why-i-sold-my-mpc-x/</link>
+      <pubDate>Thu, 30 Jul 2020 21:05:23 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=819</guid> 
+      <description>&lt;p&gt;My first MPC was the Akai MPC 1k Black. I really cut my teeth on this MPC over the years, and with JJOS it really made the MPC 1k shine. Life was pretty simple, but it had been given an amazing workflow for chopping, sampling, and writing music. I bought it back when the black model was released, and held on to it until just this year. Watching the prices of a lot of the old gear I had sky rocket, it was hard to justify keeping it around, especially since it was living mostly in it&amp;rsquo;s old box. As I&amp;rsquo;ve written about before, I really don&amp;rsquo;t want to keep old gear around for the sake of keeping it, and it was just time to part with the MPC 1k along with a lot of the other gear that has gone out the door, hopefully on to better homes that will appreciate and use the gear to the fullest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beat Battle Workflow</title>
+      <link>http://localhost:1313/2020/06/12/beat-battle-workflow/</link>
+      <pubDate>Fri, 12 Jun 2020 20:29:46 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=529</guid> 
+      <description>&lt;p&gt;There are at least as many workflows as there are people doing it. There are certainly wrong ways to approach it, but don&amp;rsquo;t let anybody fool you by saying they know &amp;ldquo;the one way&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;For a beat battle, the two most important things are to familiarize yourself with the rules, and familiarize yourself with the samples. These two things will likely be the most important for setting your direction and where you want to experiment or challenge yourself, and knowing where you can safely stick to basics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Track - MPC Forums BB 280</title>
+      <link>http://localhost:1313/2020/06/08/track-mpc-forums-bb-280/</link>
+      <pubDate>Mon, 08 Jun 2020 12:55:34 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=510</guid> 
+      <description>&lt;p&gt;The beat battle is active for another couple days, if you&amp;rsquo;re interested check it out at &lt;a href=&#34;https://www.mpc-forums.com/viewtopic.php?f=40&amp;amp;t=198305&amp;amp;start=15&#34;&gt;BB 280&lt;/a&gt;. The rules are pretty simple, just use the two samples provided, and no outside content. Also, a 1:30 time cap, so no run on pieces.&lt;/p&gt;
+&lt;p&gt;The image comes from a picture I took while on a work trip to Bangalore. Which reminds me&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/neartao/bb-280-funky-dream&#34;&gt;https://soundcloud.com/neartao/bb-280-funky-dream&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I spent a couple of hours and created a lot of different sequences to play with. Some of the components vibed better than others together. Parts were either too high energy or too low energy, so I ended up taking the components I liked the most and putting them together into something that I felt was as coherent as possible without killing a lot of time on this.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Track - MPC Forums BB 279</title>
+      <link>http://localhost:1313/2020/06/01/track-mpc-forums-bb-279/</link>
+      <pubDate>Tue, 02 Jun 2020 00:04:51 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=490</guid> 
+      <description>&lt;p&gt;I have been trying to get back into flipping samples again lately, and done a few other beat battles. Maybe I&amp;rsquo;ll post them. If you&amp;rsquo;re interested in seeing some of the discussion and submissions check out the &lt;a href=&#34;https://www.mpc-forums.com/viewtopic.php?f=40&amp;amp;t=197867&#34;&gt;MPC Forums BB 279 Thread&lt;/a&gt;. There&amp;rsquo;s definitely a lot of good content there, and some really great flips.&lt;/p&gt;
+&lt;p&gt;My approach has been to just spend 60-90 minutes on each battle, so instead of trying to get a full track or perfect mix, just go for speed of getting something workable and putting it together quickly. This battle was no different, and while I&amp;rsquo;m not excited for the track exactly, it was fun.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Track - Live High</title>
+      <link>http://localhost:1313/2020/05/29/track-live-high/</link>
+      <pubDate>Fri, 29 May 2020 23:48:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=453</guid> 
+      <description>&lt;p&gt;This track started life on the MPC X, and I did everything I could to try and use Clip mode to create loops. How the MPC X handles clips is close to what I need, especially compared to how previous versions handled clips&amp;hellip; but I have to say, it is not quite there.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve got two main problems with how the MPC X handles clips. The first problem is that the looper cannot be used in real time in many instances, because you are forced to take audio off of your inputs (mostly fine) or resampling (not really fine). Resampling means that you&amp;rsquo;ve got to take a break in your workflow if you want to resample something you are doing live while running other audio. The other problem I hit was that when you export the loop from audio to a sample, when you assign it in clip mode, it does some kind of strange BPM timing&amp;hellip; and this almost never matched what the project I was working on. Although my project was 96bpm, it would just assume what seemed like a random BPM 90% of the time, and with warping on it would sound like hot stretched garbage, even with the Pro Ten warping turned on. This is a big bummer and doesn&amp;rsquo;t bode well for using the MPC X as something you could use in a live environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Track - Work Work</title>
+      <link>http://localhost:1313/2020/05/14/track-work-work/</link>
+      <pubDate>Thu, 14 May 2020 15:13:27 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=376</guid> 
+      <description>&lt;p&gt;Dropping this track&amp;hellip; now&amp;hellip; folks in the MPC Forums have seen this in my sig for a while now&amp;hellip; I&amp;rsquo;ve just been super lazy in posting.&lt;/p&gt;
+&lt;p&gt;The ride I happened to see while I was grabbing ice cream and had to take a picture. While I don&amp;rsquo;t want to old one of these older vehicles, I can appreciate them when I see them!&lt;/p&gt;
+&lt;p&gt;This was done almost entirely on the MPC X for sequencing sections and building it out into a song&amp;hellip; in song mode. Haha!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LoFi Buttery Piano - Akai MPC X Program</title>
+      <link>http://localhost:1313/2020/03/08/lofi-buttery-piano-akai-mpc-x-program/</link>
+      <pubDate>Sun, 08 Mar 2020 23:21:10 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=369</guid> 
+      <description>&lt;p&gt;Let me start by explaining the patch a bit, and how I got here&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Life started off on the Akai S950, using piano multi samples from G1 through C4, every sixth note&amp;hellip; My goal was to get some of that S950 12-bit grit and artifacts, but still keep it relatively free of the crazy stretching artifacts you can get by just sampling a single note and stretching it across the entire keyboard. This way, it maintains a lot of the characteristics of a piano, instead of heading into the field of creating what sounds like a more synthetic instrument.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Insert Original Song Title Here</title>
+      <link>http://localhost:1313/2020/01/01/insert-original-song-title-here/</link>
+      <pubDate>Wed, 01 Jan 2020 19:11:14 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=283</guid> 
+      <description>&lt;p&gt;This is just messing around with the Akai MPC X, I tapped out a beat using the Rawcutz sample pack, and for those that care the sound kit is &amp;ldquo;HipHop-Kit-RC Ace Kit 95.xmp&amp;rdquo;. Yeah yeah&amp;hellip; I usually do my own chopping and sampling&amp;hellip; but I was more interested in just putting something together quick and checking out how hot the output levels are on the MPC X, and how badly distorted it would get going through the Chase Bliss pedals.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Roland-Um-One on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/roland-um-one/</link>
+    <description>Recent content in Roland-Um-One on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 May 2021 15:27:54 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/roland-um-one/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Q-Links on your MPC Live/X/One to control Midi CC on your iPad (or other gear)</title>
+      <link>http://localhost:1313/2021/05/07/using-q-links-on-your-mpc-live-x-one-to-control-midi-cc-on-your-ipad-or-other-gear/</link>
+      <pubDate>Fri, 07 May 2021 15:27:54 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2609</guid> 
+      <description>&lt;p&gt;Just a quick video to answer a comment from a viewer, and help show how to use Q-Links on your MPC to control external gear. Since I had it setup already, I just used it all from my iPad, but this will work on other external gear as well.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/0peJwPHkcW0&#34;&gt;https://youtu.be/0peJwPHkcW0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Since I&amp;rsquo;m sure some of the things I was doing in the video will be a little tough to catch from the angle and size of the screen, I&amp;rsquo;m going to outline all the steps below as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Get Audio and Midi from your iPad to your Akai MPC Live/X/One</title>
+      <link>http://localhost:1313/2021/05/07/get-audio-and-midi-from-your-ipad-to-your-akai-mpc-live-x-one/</link>
+      <pubDate>Fri, 07 May 2021 14:59:45 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2602</guid> 
+      <description>&lt;p&gt;Just posting a short video to show the gear I use to get both cabled audio and midi from my iPad to my Akai MPC Live II.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/0NoZIYsK9Hw&#34;&gt;https://youtu.be/0NoZIYsK9Hw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Equipment:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hypershop.com/products/hyperdrive-6-in-1-hub-for-ipad?variant=19332717412414&amp;amp;currency=USD&amp;amp;utm_medium=product_sync&amp;amp;utm_source=google&amp;amp;utm_content=sag_organic&amp;amp;utm_campaign=sag_organic&amp;amp;gclid=EAIaIQobChMI6_zJpem38AIV42xvBB3r6w-6EAQYASABEgJJAfD_BwE&#34;&gt;HyperDrive HD319&lt;/a&gt; - I linked to the Hyper Drive site, but this is around $80-$90. Personally I shopped around and was able to get it with discounts/sales at Best Buy a year ago for $60. It does give you a lot of features though, so definitely worth checking out if it is compatible with your iPad.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Akai MPC Live/X/One Midi USB adaptor with Apple iPad</title>
+      <link>http://localhost:1313/2021/05/07/akai-mpc-live-x-one-midi-usb-adaptor-with-apple-ipad/</link>
+      <pubDate>Fri, 07 May 2021 14:23:43 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2596</guid> 
+      <description>&lt;p&gt;Based on some questions, I decided to put together a quick post on how to use a Midi USB adaptor with your iPad to control your Akai MPC. This should work on any Midi equipped device, but below is the video I created as a short walkthrough.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/E19Dxo7N4uY&#34;&gt;https://youtu.be/E19Dxo7N4uY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Equipment:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.apple.com/shop/product/MJ1M2AM/A/usb-c-to-usb-adapter&#34;&gt;Apple USB-C to USB Adaptor&lt;/a&gt; - Honestly any USB-C to USB Adaptor should work here, but this is what I had on hand to get this to work.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

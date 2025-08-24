@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>St-Mix on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/st-mix/</link>
+    <description>Recent content in St-Mix on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Sep 2021 23:31:30 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/st-mix/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#jamtember2021 Jam Session - Slick Fool</title>
+      <link>http://localhost:1313/2021/09/30/jamtember2021-jam-session-slick-fool/</link>
+      <pubDate>Thu, 30 Sep 2021 23:31:30 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=3301</guid> 
+      <description>&lt;p&gt;Last track/jam for the month&amp;hellip; going to see what I can put together for beatober next :D&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/in3OUNSvj6U&#34;&gt;https://youtu.be/in3OUNSvj6U&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Last time messing around for the month, and wanted to fix up a few things on my patching. For this, I ended up just doing two different track ideas and routing one track through 3/4 of the MPC, and the second track through 5/6 of the MPC. This then went into both the Morphagenes, mostly because it was already hooked up this way. In fact, I tried to mostly use what I&amp;rsquo;ve been building up for a patch over the last two days, but I did straighten out my mixer to have the ST Mix have 1) Track 1 FX chain A 2) Track 1 FX chain B 3) Track 2 FX chain A 4) Track 2 FX chain B. This helped me keep some sanity for which ST Mix knobs were controlling which parts of the sound.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#jamtember2021 Track - Sunny Side Up</title>
+      <link>http://localhost:1313/2021/09/29/jamtember2021-track-sunny-side-up/</link>
+      <pubDate>Thu, 30 Sep 2021 00:04:26 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=3290</guid> 
+      <description>&lt;p&gt;Some house music&amp;hellip; recorded some of the jam off to the Wav Recorder&amp;hellip; and some of it made it to the YouTube video.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/neartao/sunny-side-up&#34;&gt;https://soundcloud.com/neartao/sunny-side-up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The picture is just a quick doodle that I did on my iPad. Just done in ProCreate&amp;hellip;. just now&amp;hellip; while thinking about what to do with this track.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the YouTube video.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JTZKFYO1Bwg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;So a few notes here&amp;hellip; I am routing all of my output on the MPC out either 3/4 or 5/6, and into the Eurorack, and then processing everything through a couple different chains including Morphagene, Mimeophon, Beads, Sqwk Dirty, and Data Bender, and then going out to the ST Mix.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

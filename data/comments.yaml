@@ -1,0 +1,304 @@
+- id: "1740"
+  author_name: Baron
+  author_email: chuckaway99@gmail.com
+  author_url: ""
+  published: 2021-09-10T15:12:08Z
+  parent_id: "0"
+  content: Great info, thanks, leads ordered. Loving my MPC more and more as it reveals the many tricks up it’s sleeve!
+  post_url: /2020/06/15/akai-mpc-live-mk2-one-cv-outs/
+  post_id: "542"
+- id: "1603"
+  author_name: You just bought an Akai MPC Live/X/One, what next? &#8211; NearTao&#039;s Blog
+  author_email: ""
+  author_url: https://neartao.wordpress.com/2021/05/21/you-just-bought-an-akai-mpc-live-x-one-what-next/
+  published: 2021-05-21T14:24:01Z
+  parent_id: "0"
+  content: '[&#8230;] that each can carry two CV signals over a TRS cable. I posted about the TRS splitter I used at Akai MPC Live mk2 / One CV outs post I made a while ago, but I would expect most any TRS to dual TR splitters ought to do the trick [&#8230;]'
+  post_url: /2020/06/15/akai-mpc-live-mk2-one-cv-outs/
+  post_id: "542"
+- id: "1615"
+  author_name: Syncing your MPC Live mk2/X/One to Eurorak Pamela&#8217;s New Workout &#8211; NearTao&#039;s Blog
+  author_email: ""
+  author_url: https://neartao.wordpress.com/2021/06/03/syncing-your-mpc-live-mk2-x-one-to-eurorak-pamelas-new-workout/
+  published: 2021-06-03T12:08:55Z
+  parent_id: "0"
+  content: '[&#8230;] CV 4 outputs to interface with your Eurorack. I documented the splitter solution I have using at Akai MPC Live mk2 / One CV outs in case you&#8217;re looking for a [&#8230;]'
+  post_url: /2020/06/15/akai-mpc-live-mk2-one-cv-outs/
+  post_id: "542"
+- id: "1742"
+  author_name: neartao
+  author_email: gregory.sterling@me.com
+  author_url: http://neartao.wordpress.com
+  published: 2021-09-11T06:41:19Z
+  parent_id: "1740"
+  content: Glad I could help, still digging the MPC over here :D
+  post_url: /2020/06/15/akai-mpc-live-mk2-one-cv-outs/
+  post_id: "542"
+- id: "1351"
+  author_name: You just bought an Akai MPC 500, what next? &#8211; NearTao&#039;s Blog
+  author_email: ""
+  author_url: https://neartao.wordpress.com/2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  published: 2021-01-18T10:46:42Z
+  parent_id: "0"
+  content: '[&#8230;] got to keep up with, especially as they get older. It has especially been some work on fixing an MPC 500 on Reverb that I purchased last [&#8230;]'
+  post_url: /2020/06/29/mpc-500-on-reverb/
+  post_id: "620"
+- id: "1352"
+  author_name: You just bought an Akai MPC 500, what next? &#8211; NearTao&#039;s Blog
+  author_email: ""
+  author_url: https://neartao.wordpress.com/2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  published: 2021-01-18T10:46:45Z
+  parent_id: "0"
+  content: '[&#8230;] fine, but boy was it bunged up. I documented the repairs I had to do for the Q-Link slider board at Akai MPC 500 Repair. I did some general cleanup in the post Akai MPC 500 Tact [&#8230;]'
+  post_url: /2020/07/03/akai-mpc-500-repair/
+  post_id: "644"
+- id: "917"
+  author_name: neartao
+  author_email: gregory.sterling@me.com
+  author_url: http://neartao.wordpress.com
+  published: 2020-10-05T08:35:51Z
+  parent_id: "912"
+  content: |-
+    If you're handy with a soldering iron it really isn't too bad of a repair.  Depending on how your board broke you might be able to manage soldering at the broken joints instead of having to bridge the gaps with wires like I did.
+
+    Good luck!
+  post_url: /2020/07/03/akai-mpc-500-repair/
+  post_id: "644"
+- id: "2619"
+  author_name: mastaboog749
+  author_email: theclockspider@gmail.com
+  author_url: http://www.twitch.tv/mastaboog
+  published: 2023-05-03T19:00:17Z
+  parent_id: "0"
+  content: Did you ever replace the caps? did it make it sound any  better? sadly im repairing one but i don't think ill ever get it fully working because the top 3 pads don't work and they don't make the pad sensor for it anymore.
+  post_url: /2020/07/03/akai-mpc-500-repair/
+  post_id: "644"
+- id: "2621"
+  author_name: neartao
+  author_email: gregory.sterling@me.com
+  author_url: http://neartao.wordpress.com
+  published: 2023-05-07T17:49:36Z
+  parent_id: "2619"
+  content: I did replace the caps, and eventually sold off the 500.  Got tired of the pads having to be FIXED Velocity all the time to be able to do anything serious with it :/
+  post_url: /2020/07/03/akai-mpc-500-repair/
+  post_id: "644"
+- id: "912"
+  author_name: Ricardo Ocampo Daza
+  author_email: ricardo.ocampo.daza@gmail.com
+  author_url: ""
+  published: 2020-10-05T06:03:27Z
+  parent_id: "0"
+  content: This is exactly what has happened to mine! Tho i think my board only broke in one place. Nice finding out someone actually fixed it since it seems impossible to find a new board. Will maybe try this out!
+  post_url: /2020/07/03/akai-mpc-500-repair/
+  post_id: "644"
+- id: "1353"
+  author_name: You just bought an Akai MPC 500, what next? &#8211; NearTao&#039;s Blog
+  author_email: ""
+  author_url: https://neartao.wordpress.com/2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  published: 2021-01-18T10:46:48Z
+  parent_id: "0"
+  content: '[&#8230;] The MPC booted up just fine, but boy was it bunged up. I documented the repairs I had to do for the Q-Link slider board at Akai MPC 500 Repair. I did some general cleanup in the post Akai MPC 500 Tact Switches. [&#8230;]'
+  post_url: /2020/07/08/akai-mpc-500-tact-switches/
+  post_id: "666"
+- id: "1414"
+  author_name: 'Reflection on #jamuary2021 Challenge &#8211; NearTao&#039;s Blog'
+  author_email: ""
+  author_url: https://neartao.wordpress.com/2021/02/06/reflection-on-jamuary2021-challenge/
+  published: 2021-02-06T10:42:11Z
+  parent_id: "0"
+  content: '[&#8230;] publishing a track a day.  If you&#8217;re interested in what I did last month, go check out the #jamcember2020 post. My goal was to publish a track to soundcloud, that no matter how good or bad, I was putting [&#8230;]'
+  post_url: /2020/12/31/reflection-on-jamcember-2020-challenge/
+  post_id: "1534"
+- id: "1602"
+  author_name: You just bought an Akai MPC Live/X/One, what next? &#8211; NearTao&#039;s Blog
+  author_email: ""
+  author_url: https://neartao.wordpress.com/2021/05/21/you-just-bought-an-akai-mpc-live-x-one-what-next/
+  published: 2021-05-21T10:38:31Z
+  parent_id: "0"
+  content: '[&#8230;] seem to have liked the You just bought an Akai MPC 500, what&nbsp;next? post, so it&#8217;s about time to put one together for the [&#8230;]'
+  post_url: /2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  post_id: "1752"
+- id: "1704"
+  author_name: neartao
+  author_email: gregory.sterling@me.com
+  author_url: http://neartao.wordpress.com
+  published: 2021-08-07T11:06:06Z
+  parent_id: "1703"
+  content: "While the MPC 1k, 2.5k, and 500 all share a similar processor and CPU, so *technically* a form of JJOS could be ported over, my understanding is that JJ never had access to the build tools or encryption routines for the 500, or other things necessary to actually bring a form of JJOS to the MPC 500.  So unfortunately you have what you have on the MPC 500.  If you are looking for JJOS features, at roughly the same size, your best bet would be to invest in the MPC 1k.  \n\nGood luck!"
+  post_url: /2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  post_id: "1752"
+- id: "1703"
+  author_name: Will
+  author_email: williambcjones7@gmail.com
+  author_url: ""
+  published: 2021-08-07T10:37:34Z
+  parent_id: "0"
+  content: Hey whats up bro. Man i really appreciate your blog. I seen you on one of the mpc forums and you may have mentioned that jjos could possibly work on the 500. Is this true? And if so what type of improved functionality does it bring? Thanks for your time
+  post_url: /2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  post_id: "1752"
+- id: "1706"
+  author_name: williambcjones7
+  author_email: williambcjones7@gmail.com
+  author_url: http://williambcjones7.wordpress.com
+  published: 2021-08-08T12:17:23Z
+  parent_id: "1704"
+  content: Thanks for the response. I know its a super redundant topic but id thought id ask. Appreciate your insights none the less.
+  post_url: /2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  post_id: "1752"
+- id: "1803"
+  author_name: chiLL wiLL
+  author_email: Eleven34x@gmail.com
+  author_url: ""
+  published: 2021-11-02T19:24:59Z
+  parent_id: "0"
+  content: "Awesome job putting up this blog,i appreciate the work u put into it. Thank you.this helped out with a few things. \U0001F44D"
+  post_url: /2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  post_id: "1752"
+- id: "1804"
+  author_name: neartao
+  author_email: gregory.sterling@me.com
+  author_url: http://neartao.wordpress.com
+  published: 2021-11-02T20:36:19Z
+  parent_id: "1803"
+  content: Thanks man, assuming you've got an MPC 500 good luck and have a blast!
+  post_url: /2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  post_id: "1752"
+- id: "2702"
+  author_name: williambcjones7
+  author_email: williamgunijos@gmail.com
+  author_url: ""
+  published: 2023-12-23T19:50:58Z
+  parent_id: "0"
+  content: NearTao, I would of just commented on one of your many YouTube vids but I couldn't find any 500 posts. I had a question, is it possible to just trigger the 500 stop start sequence? Or to change the "ext" tempo to its own independent tempo when syncing? Was trying to purchase another 500 and treat it like a 2nd sequence feature but maybe I shouldn't lol? Any info would be def be appreciated.
+  post_url: /2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  post_id: "1752"
+- id: "2703"
+  author_name: neartao
+  author_email: gregory.sterling@me.com
+  author_url: http://neartao.wordpress.com
+  published: 2023-12-25T07:39:54Z
+  parent_id: "2702"
+  content: Boy I haven't used the MPC 500 in ages (and no longer have one).  It certainly ought to be able to sync to an external device and all that good stuff, but I'm not sure I'm the person to help here anymore.  Good luck and happy holidays!
+  post_url: /2021/01/18/so-you-just-bought-an-akai-mpc-500-what-next/
+  post_id: "1752"
+- id: "1427"
+  author_name: Akai MPC Live/X/One Bluetooth Midi and iPad Synth &#8211; NearTao&#039;s Blog
+  author_email: ""
+  author_url: https://neartao.wordpress.com/2021/02/08/akai-mpc-live-x-one-bluetooth-midi-and-ipad-synth/
+  published: 2021-02-08T10:43:05Z
+  parent_id: "0"
+  content: '[&#8230;] figured I&#8217;d do a quick video to build on my last post Akai MPC Live/X/One Bluetooth MIDI With an iPad where I had describe how to get a Bluetooth MIDI connection working. In this post I will cover how [&#8230;]'
+  post_url: /2021/02/03/akai-mpc-live-x-one-bluetooth-midi-with-an-ipad/
+  post_id: "1967"
+- id: "1894"
+  author_name: neartao
+  author_email: gregory.sterling@me.com
+  author_url: http://neartao.wordpress.com
+  published: 2022-03-15T13:30:11Z
+  parent_id: "0"
+  content: |-
+    You wouldn't be able to recreate those sounds alone on the VX-90, as I used the S950 as the oscillator, and the VX-90 was doing the filter/envelope work for some if not all of those patches that I recorded.
+
+    I might be able to take some time to go through the VX-90 again and do a bit of a deeper dive of it.  Right now I've been pretty focussed on the Roland SP-404 mk2, but it could be fun to go back to the VX-90 and see what I can come up with.
+
+    Did you ever try making anything on it, or backup to tape any of your presets to tape?
+  post_url: /2021/02/21/akai-vx90-heart-akai-s950-samples-n-programs/
+  post_id: "2382"
+- id: "1895"
+  author_name: jarinmurray@me.com
+  author_email: jarinmurray@me.com
+  author_url: ""
+  published: 2022-03-15T13:48:35Z
+  parent_id: "1894"
+  content: |-
+    Thanks for the FAST reply. I only modified presets and learned some things bout the filters and envelopes. I never really got the hang of creating anything from scratch. I seem to be incapable of getting a simple sign-wave out of it. I'm just too terrible with parameters like "VCOaPWMS," "VCF KEYF," and the complex interworking of the envelope parameters. More often then not I get no sound unless I start with someone else's patch as a starting point.
+
+    After I changed the battery about a couple years ago, I lost all presets. Starting with a clean slate, I found some patch recipes for it on the internet (link below). Those 20 sounds are the best I've ever gotten out of it! But that leaves me with about 80 empty slots.
+
+    https://web.archive.org/web/20010406134647/http://ax73.tripod.com/patches.html
+  post_url: /2021/02/21/akai-vx90-heart-akai-s950-samples-n-programs/
+  post_id: "2382"
+- id: "1893"
+  author_name: jarinmurray@me.com
+  author_email: jarinmurray@me.com
+  author_url: ""
+  published: 2022-03-15T12:52:55Z
+  parent_id: "0"
+  content: I've been the proud owner of a VX90 since I spent all my car fund on it when I was 15 (30 years ago). My mom was furious. I loved it but never really understood it. I got to where I could modify the presets, but not really create anything from scratch. There's like zero help on the internet for patches to try. Since there's really only about 20 relevant parameters, I was wondering if you could most the settings for any of these sounds. They're cool!
+  post_url: /2021/02/21/akai-vx90-heart-akai-s950-samples-n-programs/
+  post_id: "2382"
+- id: "2629"
+  author_name: Micah
+  author_email: Shigginpit@mail.com
+  author_url: ""
+  published: 2023-05-28T21:06:35Z
+  parent_id: "0"
+  content: "Wanted to quickly mention that recording to banks C/D using the memory card significantly reduce the SP202's noise floor so that you have less high-pitched noise to eq out of your recordings (shown by non-juror on youtube). Also worth mention is that if you're sequencing from an MPC or other midi sequencer, the 202 responds to velocity with a value of 0 or 1-127. \n\nUnlike the 303 which uses WAV files, the 202 records in the old Roland proprietary RDAC file format for which there is some part of a decoder available at https://github.com/randygordon/rdac but it apparently requires you to use a hex editor and I just don't know enough about that to make it work. If someone figures it out, it will mean that you could put samples on the card or pull them off straight to a computer using a card reader.\n\nIt's awesome that you figured out how many semitones the pitch down effect spans, this should make it a lot easier to calculate and create a slightly faster than desired loop on a drum machine or modern sequencer, with the intent of recording that onto the 202 and then using the correlation between pitch and tempo, produce a pitched down output which is aligned with your desired project bpm.\n\nLook forward to seeing any updates."
+  post_url: /2021/09/07/you-just-bought-a-boss-sp-202-what-next/
+  post_id: "3081"
+- id: "2006"
+  author_name: Katja &amp; Rob - GET-SHOT.de
+  author_email: robworld@gmx.de
+  author_url: http://get-shot.de
+  published: 2022-09-13T19:27:22Z
+  parent_id: "0"
+  content: |-
+    So lucky that i finally found what i searched for. Ever since the Octatrack, I appreciate receiving guidance from a user especially one so detailed! thank you very much. Now i have a lot to read and understand until my 404MKII will arrive. Musical greetz from Dresden/Germany
+
+    Rob (Volcarock)
+  post_url: /2022/08/04/roland-sp-404-mk2-guide-v0-24/
+  post_id: "3802"
+- id: "2007"
+  author_name: neartao
+  author_email: gregory.sterling@me.com
+  author_url: http://neartao.wordpress.com
+  published: 2022-09-13T19:40:09Z
+  parent_id: "2006"
+  content: "Happy to help and I'll do my best to try and answer questions.  A lot more is posted up on my YouTube channel if you haven't found that yet... I'm well over 200 videos on the SP now.  \n\nTake it easy and peace!"
+  post_url: /2022/08/04/roland-sp-404-mk2-guide-v0-24/
+  post_id: "3802"
+- id: "2698"
+  author_name: ethnopiper
+  author_email: ethnopiper@gmail.com
+  author_url: http://ethnopiper.wordpress.com
+  published: 2023-12-11T17:44:45Z
+  parent_id: "0"
+  content: many thanks for your videos and info, much appreciated. also for your pdf it all helps a lot.
+  post_url: /2023/12/11/roland-sp-404-mk2-guide-v0-29/
+  post_id: "4018"
+- id: "2699"
+  author_name: neartao
+  author_email: gregory.sterling@me.com
+  author_url: http://neartao.wordpress.com
+  published: 2023-12-11T18:04:13Z
+  parent_id: "2698"
+  content: Happy to help!
+  post_url: /2023/12/11/roland-sp-404-mk2-guide-v0-29/
+  post_id: "4018"
+- id: "2700"
+  author_name: Alwin Vestergaard
+  author_email: registratiealwino@gmail.com
+  author_url: ""
+  published: 2023-12-12T07:52:27Z
+  parent_id: "0"
+  content: Thank you!!
+  post_url: /2023/12/11/roland-sp-404-mk2-guide-v0-29/
+  post_id: "4018"
+- id: "2701"
+  author_name: neartao
+  author_email: gregory.sterling@me.com
+  author_url: http://neartao.wordpress.com
+  published: 2023-12-12T07:53:27Z
+  parent_id: "2700"
+  content: You're welcome, happy holidays!
+  post_url: /2023/12/11/roland-sp-404-mk2-guide-v0-29/
+  post_id: "4018"
+- id: "2704"
+  author_name: In the top 2%?! &#8211; NearTao&#039;s Blog
+  author_email: ""
+  author_url: https://neartao.wordpress.com/2024/05/10/in-the-top-2/
+  published: 2024-05-10T10:53:52Z
+  parent_id: "0"
+  content: '[&#8230;] neartao.wordpress.com/2023/12/11/roland-sp-404-mk2-guide-v0-29/ [&#8230;]'
+  post_url: /2023/12/11/roland-sp-404-mk2-guide-v0-29/
+  post_id: "4018"

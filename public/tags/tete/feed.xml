@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tete on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/tete/</link>
+    <description>Recent content in Tete on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Jul 2021 20:58:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tete/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Setup The Akai MPC X/One/Live II to Sync With Eurorack</title>
+      <link>http://localhost:1313/2021/07/26/how-to-setup-the-akai-mpc-x-one-live-ii-to-sync-with-eurorack/</link>
+      <pubDate>Mon, 26 Jul 2021 20:58:46 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2950</guid> 
+      <description>&lt;p&gt;Just posted a video up on some of the things I&amp;rsquo;ve done over the last few weeks to experiment with getting the new MPC line to talk with Eurorack and get everything in sync. It&amp;rsquo;s nothing to fancy or special, but felt like this might be useful for others who are trying to figure out how to do something similar.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qJvdQfDjhzg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;If there is interest, I&amp;rsquo;ll work on putting another post together to outline the details more fully, but this just seemed like a good place to start.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPC Forums Beat Battle 315 - Tailgating Life</title>
+      <link>http://localhost:1313/2021/07/25/mpc-forums-beat-battle-315-tailgating-life/</link>
+      <pubDate>Sun, 25 Jul 2021 20:59:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2954</guid> 
+      <description>&lt;p&gt;I&amp;rsquo;ve been messing around trying to get an Ambient DnB setup working, and ended up thinking the concept might fit well with the MPC Forums Beat Battle 315 this week.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the two live played recordings that I took.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/GD8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/AZo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;UPDATE: So I decided to do a third iteration of the track, because all the tapping noises were bugging me. Anyways&amp;hellip; here&amp;rsquo;s revision three.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Somnium-Beyond-the-Darkness on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/somnium-beyond-the-darkness/</link>
+    <description>Recent content in Somnium-Beyond-the-Darkness on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Jul 2020 19:19:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/somnium-beyond-the-darkness/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio Book Vocal Processing Pt. 2</title>
+      <link>http://localhost:1313/2020/07/06/audiobook-vocal-processing-pt-2/</link>
+      <pubDate>Mon, 06 Jul 2020 19:19:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=677</guid> 
+      <description>&lt;p&gt;Well I just (hopefully) wrapped up the audio processing for my sister&amp;rsquo;s book. Since the last post, I probably could have done three other posts about the series of events that happened. Suffice it to say that there are some competing formats, tools, and audiobook sites that aren&amp;rsquo;t exactly in alignment.&lt;/p&gt;
+&lt;p&gt;So&amp;hellip; I had gotten my sister&amp;rsquo;s book all processed, converted to .mp3 format, and she was quite happy with the sound. Unfortunately she doesn&amp;rsquo;t really understand audio processing or audio file formats, so this kicked off a chain of unfortunate re-exports. Each process and export job probably took me 60-90 minutes&amp;hellip; and since I had only ever expected to do this twice, I never automated the job. Each time I ended up processing the files, it was &amp;ldquo;just one more change&amp;rdquo; which had me shrug, and go off and do a whole bunch of clicking to re-process the files again. After time five, you&amp;rsquo;d think I would have learned my lesson. Which I did, but maybe not the one you&amp;rsquo;d think.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Audio Book Vocal Processing</title>
+      <link>http://localhost:1313/2020/06/19/audio-book-vocal-processing/</link>
+      <pubDate>Fri, 19 Jun 2020 12:08:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=585</guid> 
+      <description>&lt;p&gt;My sister has released the book &lt;a href=&#34;https://www.amazon.com/SOMNIUM-Beyond-Darkness-D-Sterling-ebook/dp/B087T5TVSS#ace-g1639449406&#34;&gt;SOMNIUM Beyond the Darkness&lt;/a&gt; on Amazon as a kindle book and as a paperback book, which is an excellent read for young adults and adults alike. She&amp;rsquo;s been looking to expand out into the audio book space, which makes sense to me!&lt;/p&gt;
+&lt;p&gt;She had been looking into some voice actors who could read the book. When I heard the audio quality of the demo, it was rather poor. We were hoping that it was just a quick demo, but it suffered from a lot of background noise. My sister passed on links to the voice actor, and the demo&amp;rsquo;s she had on her website were great. After I gave my sister a few questions to ask and suggestions for contract negotiations, unfortunately it fell through. We suspect that the voice actor recorded her website demo at a professional studio, and likely recorded the demo she produced for my sister at home. Total bummer, but it&amp;rsquo;s better to both live and learn, and get through these miss steps early is what I always say.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

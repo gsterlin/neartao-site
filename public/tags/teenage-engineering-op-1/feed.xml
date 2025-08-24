@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Teenage-Engineering-Op-1 on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/teenage-engineering-op-1/</link>
+    <description>Recent content in Teenage-Engineering-Op-1 on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Jul 2021 13:54:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/teenage-engineering-op-1/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can you get multiple audio interfaces connected to your iPad?</title>
+      <link>http://localhost:1313/2021/07/16/can-you-get-multiple-audio-interfaces-connected-to-your-ipad/</link>
+      <pubDate>Fri, 16 Jul 2021 13:54:53 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2936</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/LAl9KgCQpaQ&#34;&gt;https://youtu.be/LAl9KgCQpaQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The short answer to the question is NO, you cannot have multiple audio interfaces hooked up to your iPad. At least this is probably not going to work the way that you want. I was hoping to use the iPad to route audio around between the iPad, OP-Z, and OP-1, but alas, it&amp;rsquo;s not quite meant to be.&lt;/p&gt;
+&lt;h2 id=&#34;aum&#34;&gt;AUM&lt;/h2&gt;
+&lt;p&gt;In the video I show what happens when you try to do this in AUM, and it is a complete bust, whatever the iPad recognized as the last audio device is the one, and only one, that it will recognize. End of Story.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to sync your OP-1 to your MPC Live/X/One</title>
+      <link>http://localhost:1313/2021/05/10/how-to-sync-your-op-1-to-your-mpc-live-x-one/</link>
+      <pubDate>Mon, 10 May 2021 14:51:59 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2753</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/V7aN9cKaqYU&#34;&gt;https://youtu.be/V7aN9cKaqYU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is just a quick video to walk you through how to sync a Teenage Engineering OP-1 to an Akai MPC Live/X/One over USB. The steps are pretty straightforward, but I&amp;rsquo;m going to add the steps below as well for those that would prefer to skip the video and just want some text to follow along.&lt;/p&gt;
+&lt;p&gt;Akai MPC Live/X/One Setup&lt;/p&gt;
+&lt;p&gt;On you&amp;rsquo;re MPC, you&amp;rsquo;ll want to head over to the menu by pressing the MENU button. This will get you into your normal menu. You can choose to have the top middle setting SYNC to Off or something else, but personally I&amp;rsquo;d just turn it off since in this case we just want the MPC to control the master sync.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MPCBB306 - My Way</title>
+      <link>http://localhost:1313/2021/03/09/mpcbb306-my-way/</link>
+      <pubDate>Tue, 09 Mar 2021 12:36:33 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2404</guid> 
+      <description>&lt;p&gt;This week&amp;rsquo;s &lt;a href=&#34;https://www.mpc-forums.com/viewtopic.php?f=40&amp;amp;t=210648&#34;&gt;MPC Forums Beat Battle 306&lt;/a&gt; is still open for one more day. The track itself is a great mix of different synths, pads, chords, percussion, and other elements. You can go quite a few different ways for this beat battle for sure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/neartao/mpcbb306-my-way&#34;&gt;https://soundcloud.com/neartao/mpcbb306-my-way&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I worked on this track over a couple of days. I wasn&amp;rsquo;t quite sure what I wanted to do with it, but figured I&amp;rsquo;d dirty up the track a bit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

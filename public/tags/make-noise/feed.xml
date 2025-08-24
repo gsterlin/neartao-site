@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Make-Noise on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/make-noise/</link>
+    <description>Recent content in Make-Noise on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Jul 2020 18:38:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/make-noise/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Track - Chest Pain</title>
+      <link>http://localhost:1313/2020/07/10/track-chest-pain/</link>
+      <pubDate>Fri, 10 Jul 2020 18:38:46 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=686</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/neartao/chest-pain&#34;&gt;https://soundcloud.com/neartao/chest-pain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This track came together pretty quickly. Maybe two hours of goofing around on the MPC Live mk2 at most. The core of it started with me patching on my modular system, and seeing what tones I could create, and then sync&amp;rsquo;ing that to the MPC Live mk2 over CV&amp;hellip; well technically gate signals. You can see from the picture that this is honestly not a terribly complicated patch.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/wp-content/uploads/2020/07/8bad7823-6b1f-479f-b535-ad0aeb3ee990%5F1%5F105%5Fc.jpeg?w=883&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;This patch is what is making that sometimes bass, sometimes bloopy sound in the track. Effectively Tempi is being clocked by the MPC Live mk2 gate out, which is then clocking the Wogglebug, Brains, and a strike on the RxMx. DPO is doing the oscillator duties today, and being run into the FxDF 6db slope that is then patched into RxMx. In turn, RxMx is being filtered by the QPAS which is then going to the output. Of note, Pressure Points/Brains is being used to modulate the 1v/octave to generate the change in tones, as well as the left !! on QPAS, and the Wogglebug step modulation is driving the QPAS filter changes. I went this way to create a fair mix of &amp;ldquo;in control&amp;rdquo; and somewhat random modulation, which I recorded in as an eight bar loop in the MPC Live mk2 Looper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modular Tennessee</title>
+      <link>http://localhost:1313/2020/05/22/modular-tennessee/</link>
+      <pubDate>Fri, 22 May 2020 18:25:00 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=433</guid> 
+      <description>&lt;p&gt;This is a patch I&amp;rsquo;ve been playing around with on my eurorack gear while I am awaiting the case to get everything installed.&lt;/p&gt;
+&lt;p&gt;The intent for this recording wasn&amp;rsquo;t to get a clean sound&amp;hellip; and yeah&amp;hellip; I&amp;rsquo;m just using my cellphone mic. I was mostly testing out a new stand I got to see how much bump/wabble/wiggle the stand introduced in the video. You can hear some background noise (sorry about that), but I wasn&amp;rsquo;t too interested in hooking up a proper audio recording device to sync everything. Probably next time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

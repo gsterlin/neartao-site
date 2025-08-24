@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Leadership on NearTao&#39;s Blog</title>
+    <link>http://localhost:1313/categories/leadership/</link>
+    <description>Recent content in Leadership on NearTao&#39;s Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Oct 2020 15:48:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/leadership/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>25 Ideas in 3 Minutes</title>
+      <link>http://localhost:1313/2020/10/21/25-ideas-in-3-minutes/</link>
+      <pubDate>Wed, 21 Oct 2020 15:48:20 +0000</pubDate>
+       <guid isPermaLink="false">https://neartao.wordpress.com/?p=1117</guid> 
+      <description>&lt;p&gt;When I feel like I am stuck for ideas, one thing I like to do is rapid brainstorms. This is especially helpful for me because there is a tendency to get pushed into a specific train of thought, and sometimes I just want to move outside of the box that I have put myself in. In order to push myself I find it helpful to come up with as many random ideas to address a topic as I can within a short period of time. The idea is not to get 25 great ideas, but instead to explore thoughts that you might have otherwise ignored.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
