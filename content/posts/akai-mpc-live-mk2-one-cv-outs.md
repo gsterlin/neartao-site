@@ -16,7 +16,7 @@ cover:
   alt: eeec46d6-aecd-4f10-a929-6aea84fea557_1_105_c
   image: /wp-content/uploads/2020/06/eeec46d6-aecd-4f10-a929-6aea84fea557_1_105_c.jpeg
 date: "2020-06-15T13:53:00+00:00"
-guid: https://neartao.wordpress.com/?p=542
+guid: https://neartao.com/?p=542
 parent_post_id: null
 post_id: "542"
 publicize_tumblr_url: http://.tumblr.com/post/621000811911282689

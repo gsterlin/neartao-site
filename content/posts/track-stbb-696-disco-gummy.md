@@ -36,7 +36,7 @@ cover:
   alt: 125865-01_haribo-gold-bears-gummy-bears-candy-5lb-bag
   image: /wp-content/uploads/2020/07/125865-01_haribo-gold-bears-gummy-bears-candy-5lb-bag.jpg
 date: "2020-07-07T18:17:00+00:00"
-guid: https://neartao.wordpress.com/?p=661
+guid: https://neartao.com/?p=661
 parent_post_id: null
 post_id: "661"
 publicize_tumblr_url: http://.tumblr.com/post/623098553910345728

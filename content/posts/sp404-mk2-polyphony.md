@@ -26,7 +26,7 @@ author: neartao
 categories:
   - uncategorized
 date: "2023-03-08T20:01:58+00:00"
-guid: https://neartao.wordpress.com/?p=3856
+guid: https://neartao.com/?p=3856
 parent_post_id: null
 post_id: "3856"
 publicize_twitter_user: NearTao

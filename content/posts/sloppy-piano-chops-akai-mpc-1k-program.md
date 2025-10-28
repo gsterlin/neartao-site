@@ -17,7 +17,7 @@ enclosure: |-
   https://neartao.files.wordpress.com/2019/12/sloppy-piano.wav
   2293444
   audio/wav
-guid: https://neartao.wordpress.com/?p=242
+guid: https://neartao.com/?p=242
 parent_post_id: null
 post_id: "242"
 publicize_twitter_user: NearTao

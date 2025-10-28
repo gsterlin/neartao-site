@@ -22,7 +22,7 @@ cover:
   alt: image 7
   image: /wp-content/uploads/2021/04/image-7.jpg
 date: "2021-04-03T11:40:00+00:00"
-guid: https://neartao.wordpress.com/?p=2507
+guid: https://neartao.com/?p=2507
 parent_post_id: null
 post_id: "2507"
 publicize_twitter_user: NearTao

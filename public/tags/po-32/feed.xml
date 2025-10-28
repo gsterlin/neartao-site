@@ -12,7 +12,7 @@
       <title>Beatober2021 #06 - Something</title>
       <link>http://localhost:1313/2021/10/06/beatober2021-06-something/</link>
       <pubDate>Thu, 07 Oct 2021 00:27:56 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=3347</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=3347</guid> 
       <description>&lt;p&gt;And now for something completely different.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/uFkvE6DVNqs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -24,7 +24,7 @@
       <title>Track - On the Road</title>
       <link>http://localhost:1313/2020/07/09/track-on-the-road/</link>
       <pubDate>Thu, 09 Jul 2020 17:06:20 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=681</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=681</guid> 
       <description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/neartao/on-the-road&#34;&gt;https://soundcloud.com/neartao/on-the-road&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This is a track I have been working on for about a week on the PO-33. All the sampling and mixing was done within the little box. I continue to like this little device because it really forces you to think about a potentially crippling amount of sampling time and a very real four note polyphony limit. Some of the previous tracks I have done really ran into the polyphony wall, and it doesn&amp;rsquo;t exactly drop notes the way I would expect at least.&lt;/p&gt;</description>
     </item>
@@ -32,7 +32,7 @@
       <title>Track - Live High</title>
       <link>http://localhost:1313/2020/05/29/track-live-high/</link>
       <pubDate>Fri, 29 May 2020 23:48:00 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=453</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=453</guid> 
       <description>&lt;p&gt;This track started life on the MPC X, and I did everything I could to try and use Clip mode to create loops. How the MPC X handles clips is close to what I need, especially compared to how previous versions handled clips&amp;hellip; but I have to say, it is not quite there.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve got two main problems with how the MPC X handles clips. The first problem is that the looper cannot be used in real time in many instances, because you are forced to take audio off of your inputs (mostly fine) or resampling (not really fine). Resampling means that you&amp;rsquo;ve got to take a break in your workflow if you want to resample something you are doing live while running other audio. The other problem I hit was that when you export the loop from audio to a sample, when you assign it in clip mode, it does some kind of strange BPM timing&amp;hellip; and this almost never matched what the project I was working on. Although my project was 96bpm, it would just assume what seemed like a random BPM 90% of the time, and with warping on it would sound like hot stretched garbage, even with the Pro Ten warping turned on. This is a big bummer and doesn&amp;rsquo;t bode well for using the MPC X as something you could use in a live environment.&lt;/p&gt;</description>
     </item>
@@ -40,7 +40,7 @@
       <title>No More Technology - #Jamuary</title>
       <link>http://localhost:1313/2020/01/11/no-more-technology-jamuary/</link>
       <pubDate>Sat, 11 Jan 2020 21:36:47 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=349</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=349</guid> 
       <description>&lt;p&gt;No eurorack modules were harmed in the making of this video. The PO-32 (Tonic) makes up the drums, the PO-35 (Voice) is how I got the &amp;ldquo;No More Technology&amp;rdquo; hook, and&amp;hellip; the lead/bass came from some Eurorack mess. I recorded all of this into Ableton Live for some FX processing. All of this was recorded back in October/November, and I&amp;rsquo;ve meant to create a finished track.&lt;/p&gt;
 &lt;p&gt;In the spirit of #Jamuary though, I figured I&amp;rsquo;d break out some gear and refine the track a bit more. I&amp;rsquo;m really trying to cap myself to about 30-60 minutes of production time this month for each song. This is good in some ways because it&amp;rsquo;s forcing me to get ideas down, but it is bad in a few other ways since I&amp;rsquo;m really not mixing/mastering anything. Leaving this track with a bit more of a tinny sound than I&amp;rsquo;d like, but hey it is what it is.&lt;/p&gt;</description>
     </item>

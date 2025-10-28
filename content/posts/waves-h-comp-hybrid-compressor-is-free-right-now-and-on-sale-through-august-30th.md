@@ -15,7 +15,7 @@ cover:
   alt: screen-shot-2020-08-24-at-11.43.33-am
   image: /wp-content/uploads/2020/08/screen-shot-2020-08-24-at-11.43.33-am.png
 date: "2020-08-24T15:46:15+00:00"
-guid: https://neartao.wordpress.com/?p=912
+guid: https://neartao.com/?p=912
 parent_post_id: null
 post_id: "912"
 publicize_tumblr_url: http://.tumblr.com/post/627346222908424193

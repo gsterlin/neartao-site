@@ -23,7 +23,7 @@ cover:
   alt: 4bb7917b-dbad-4ed2-8a64-596bfdee0a18_1_105_c
   image: /wp-content/uploads/2021/06/4bb7917b-dbad-4ed2-8a64-596bfdee0a18_1_105_c.jpeg
 date: "2021-07-25T20:59:00+00:00"
-guid: https://neartao.wordpress.com/?p=2954
+guid: https://neartao.com/?p=2954
 parent_post_id: null
 post_id: "2954"
 publicize_tumblr_url: http://.tumblr.com/post/657806686185308160

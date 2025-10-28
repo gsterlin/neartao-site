@@ -27,7 +27,7 @@ cover:
   alt: Nothing but Drifters
   image: /wp-content/uploads/2020/09/nothing-but-drifters.png
 date: "2020-09-16T23:55:11+00:00"
-guid: https://neartao.wordpress.com/?p=1002
+guid: https://neartao.com/?p=1002
 parent_post_id: null
 post_id: "1002"
 publicize_tumblr_url: http://.tumblr.com/post/629460713673523200

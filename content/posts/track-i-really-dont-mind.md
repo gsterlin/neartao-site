@@ -23,7 +23,7 @@ cover:
   alt: MPCBB 293 - I Really Don't Mind
   image: /wp-content/uploads/2020/10/mpcbb-293-i-really-dont-mind.png
 date: "2020-10-15T20:50:00+00:00"
-guid: https://neartao.wordpress.com/?p=1106
+guid: https://neartao.com/?p=1106
 parent_post_id: null
 post_id: "1106"
 publicize_tumblr_url: http://.tumblr.com/post/632077212438364160

@@ -15,7 +15,7 @@ cover:
   alt: IMG_6682
   image: /wp-content/uploads/2019/11/img_6682-2.jpeg
 date: "2020-03-08T23:21:10+00:00"
-guid: https://neartao.wordpress.com/?p=369
+guid: https://neartao.com/?p=369
 parent_post_id: null
 post_id: "369"
 publicize_twitter_user: NearTao

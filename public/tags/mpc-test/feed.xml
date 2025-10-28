@@ -12,7 +12,7 @@
       <title>Akai MPC Live/X/One Plugin Track Velocity Test</title>
       <link>http://localhost:1313/2021/01/25/akai-mpc-live-x-one-plugin-track-velocity-test/</link>
       <pubDate>Mon, 25 Jan 2021 16:43:07 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=1880</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=1880</guid> 
       <description>&lt;p&gt;Based on the above MPC Forums topic &lt;a href=&#34;https://www.mpc-forums.com/viewtopic.php?f=48&amp;amp;t=210039&#34;&gt;BUG ON MPC 2.9? PLUGIN TRACK LEVEL EFFECTS PROGRAM LEVEL&lt;/a&gt; I created a test project to see if I could reproduce the issue below. In essence, the poster was stating that when they change the velocity setting on the track level for a plugin, that it was impacting the velocity setting for another track with the same plugin. Unfortunately this is mostly what I have for information at the time, making it difficult to either confirm or deny the problem. Below is some notes on what I attempted to test to see if I could figure out what the poster was hitting because this wasn&amp;rsquo;t behavior that I had come across before.&lt;/p&gt;</description>
     </item>
   </channel>

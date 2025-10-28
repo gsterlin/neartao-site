@@ -23,7 +23,7 @@ cover:
   image: /wp-content/uploads/2024/05/chibi_dj_9a.png
 date: "2024-05-21T12:59:45+00:00"
 firehose_sent: "1716296387"
-guid: https://neartao.wordpress.com/?p=4063
+guid: https://neartao.com/?p=4063
 parent_post_id: null
 post_id: "4063"
 tags:

@@ -26,7 +26,7 @@ cover:
   alt: IMG_1457
   image: /wp-content/uploads/2020/12/img_1457.jpg
 date: "2020-12-18T15:40:58+00:00"
-guid: https://neartao.wordpress.com/?p=1437
+guid: https://neartao.com/?p=1437
 parent_post_id: null
 post_id: "1437"
 publicize_tumblr_url: http://.tumblr.com/post/637855139957555200

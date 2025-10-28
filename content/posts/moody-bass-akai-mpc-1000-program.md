@@ -12,7 +12,7 @@ enclosure: |-
   https://neartao.files.wordpress.com/2019/11/moody-01.wav
   364840
   audio/wav
-guid: https://neartao.wordpress.com/?p=183
+guid: https://neartao.com/?p=183
 parent_post_id: null
 post_id: "183"
 tags:

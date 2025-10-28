@@ -18,7 +18,7 @@ cover:
   alt: fa9c56aa-3d6d-11ec-9401-a1f99f625969
   image: /wp-content/uploads/2021/11/fa9c56aa-3d6d-11ec-9401-a1f99f625969.png
 date: "2021-11-04T16:30:54+00:00"
-guid: https://neartao.wordpress.com/?p=3504
+guid: https://neartao.com/?p=3504
 parent_post_id: null
 post_id: "3504"
 publicize_tumblr_url: http://.tumblr.com/post/666939906428485632

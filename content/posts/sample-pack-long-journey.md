@@ -16,7 +16,7 @@ cover:
   alt: BY-SA NearTao Sample Pack
   image: /wp-content/uploads/2021/02/by-sa-neartao-sample-pack-e1612648962950.png
 date: "2021-02-20T20:47:00+00:00"
-guid: https://neartao.wordpress.com/?p=2123
+guid: https://neartao.com/?p=2123
 parent_post_id: null
 post_id: "2123"
 publicize_tumblr_url: http://.tumblr.com/post/643673321440952320

@@ -16,7 +16,7 @@ cover:
   alt: POOCH
   image: /wp-content/uploads/2020/11/pooch.jpg
 date: "2020-11-17T22:09:42+00:00"
-guid: https://neartao.wordpress.com/?p=1245
+guid: https://neartao.com/?p=1245
 parent_post_id: null
 post_id: "1245"
 publicize_tumblr_url: http://.tumblr.com/post/635071089067868160

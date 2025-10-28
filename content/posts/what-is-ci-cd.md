@@ -6,7 +6,7 @@ categories:
   - uncategorized
 date: "2023-10-18T12:26:18+00:00"
 draft: "true"
-guid: http://neartao.wordpress.com/?p=2
+guid: http://neartao.com/?p=2
 parent_post_id: null
 post_id: "2"
 title: What is CI/CD?

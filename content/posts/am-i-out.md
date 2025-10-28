@@ -22,7 +22,7 @@ cover:
   alt: Screen Shot 2021-05-07 at 5.11.11 PM
   image: /wp-content/uploads/2021/05/screen-shot-2021-05-07-at-5.11.11-pm.png
 date: "2021-04-25T21:09:00+00:00"
-guid: https://neartao.wordpress.com/?p=2715
+guid: https://neartao.com/?p=2715
 parent_post_id: null
 post_id: "2715"
 publicize_twitter_user: NearTao

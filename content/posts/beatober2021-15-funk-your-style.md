@@ -18,7 +18,7 @@ cover:
   alt: image 41
   image: /wp-content/uploads/2021/10/image-41.jpg
 date: "2021-10-16T01:16:54+00:00"
-guid: https://neartao.wordpress.com/?p=3389
+guid: https://neartao.com/?p=3389
 parent_post_id: null
 post_id: "3389"
 publicize_tumblr_url: http://.tumblr.com/post/665161067987681280

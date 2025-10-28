@@ -12,7 +12,7 @@ cover:
   image: /wp-content/uploads/2023/12/acid-drop.png
 date: "2023-12-25T14:39:52+00:00"
 firehose_sent: "1703515497"
-guid: https://neartao.wordpress.com/?p=4025
+guid: https://neartao.com/?p=4025
 parent_post_id: null
 post_id: "4025"
 publicize_tumblr_url: http://near-tao.tumblr.com/post/737689470727487488

@@ -20,7 +20,7 @@ enclosure: |-
   https://neartao.files.wordpress.com/2022/05/303vinylsim-halfvol-maxnoise.wav
   8475948
   audio/wav
-guid: https://neartao.wordpress.com/?p=3789
+guid: https://neartao.com/?p=3789
 parent_post_id: null
 post_id: "3789"
 publicize_tumblr_url: http://.tumblr.com/post/684355614097408000

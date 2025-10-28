@@ -1,7 +1,7 @@
 ---
 author: neartao
 date: "2013-10-08T11:38:02+00:00"
-guid: http://neartao.wordpress.com/?page_id=1
+guid: http://neartao.com/?page_id=1
 parent_post_id: null
 post_id: "1"
 title: About

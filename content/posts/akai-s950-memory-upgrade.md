@@ -13,7 +13,7 @@ cover:
   alt: cropped-2217c5f5-9008-4f22-85a9-f720467b9097_1_105_c.jpeg
   image: /wp-content/uploads/2019/10/cropped-2217c5f5-9008-4f22-85a9-f720467b9097_1_105_c.jpeg
 date: "2020-05-23T15:14:00+00:00"
-guid: https://neartao.wordpress.com/?p=448
+guid: https://neartao.com/?p=448
 parent_post_id: null
 post_id: "448"
 publicize_twitter_user: NearTao

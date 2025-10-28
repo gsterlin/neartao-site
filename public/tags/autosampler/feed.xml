@@ -12,7 +12,7 @@
       <title>MPC Samples - NT S950 Volume 1</title>
       <link>http://localhost:1313/2020/11/15/mpc-samples-nt-s950-volume-1/</link>
       <pubDate>Sun, 15 Nov 2020 15:44:57 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=1210</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=1210</guid> 
       <description>&lt;p&gt;I spent about six hours yesterday recording off samples from my Akai S950, and auto sampling them into my MPC Live mk2. Near the end I think I was starting to get cross eyed. Anyway, if you&amp;rsquo;re interested, I have posted the samples below, and then will get into the details after the break.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2020/11/nt-s950-v1.zip&#34;&gt;NT - S950 v1&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/wp-content/uploads/2020/11/nt-s950-v1.zip&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This is MPC X/Live/One formatted&amp;hellip; though the samples are 44.1k/16-bit mono, so should load into plenty of samplers. I considered converting this stack into a MPC Expansion, but gave up on the app for now. Maybe later, when I figure out the steps to create previews&amp;hellip; and apparently it wants sequences for each program *shrug*. I watched a few videos on YouTube, and read Tutor&amp;rsquo;s &lt;a href=&#34;https://www.mpc-tutor.com/mpc-expansion-packs-complete-guide/&#34;&gt;Complete Guide to MPC Expansion Packs&lt;/a&gt; but got the impression that you might need to use the MPC Software in order to do some of these things more effectively.&lt;/p&gt;</description>
@@ -21,7 +21,7 @@
       <title>Music Notation - Dynamics &amp;amp; Akai Auto Sampler</title>
       <link>http://localhost:1313/2020/10/06/music-notation-dynamics-akai-auto-sampler/</link>
       <pubDate>Tue, 06 Oct 2020 19:41:00 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=1049</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=1049</guid> 
       <description>&lt;p&gt;Well over at the MPC Forums a user created a topic &lt;a href=&#34;https://www.mpc-forums.com/viewtopic.php?f=48&amp;amp;t=204251&#34;&gt;Tidy Keygroup Names&lt;/a&gt; and thought that there was a bug when they were auto sampling, as it was putting f/p/fm/pm into the names of the samples instead of actual velocity. I chuckled to myself, because this seems kind of strange to show up into sample names.&lt;/p&gt;
 &lt;p&gt;Why is this strange you may ask? Well, for starters the auto sampler uses both the note names, as well as the midi note numbers in the file name when you auto sample an instrument. This makes sense, even if it is duplicate information. However, when you do multiple velocity levels, the auto sampler adds f/fm/pm/p (or a subset there of) into the file names. Strange huh? Especially if you don&amp;rsquo;t know what it means.&lt;/p&gt;</description>
     </item>

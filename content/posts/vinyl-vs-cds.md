@@ -5,7 +5,7 @@ categories:
   - uncategorized
 date: "2022-02-23T08:35:59+00:00"
 draft: "true"
-guid: https://neartao.wordpress.com/?p=3731
+guid: https://neartao.com/?p=3731
 parent_post_id: null
 post_id: "3731"
 title: Vinyl vs CDs

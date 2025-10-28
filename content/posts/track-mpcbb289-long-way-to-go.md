@@ -23,7 +23,7 @@ cover:
   alt: E1CF961B-5404-427F-AABC-CBEB5E879529_1_105_c
   image: /wp-content/uploads/2020/08/e1cf961b-5404-427f-aabc-cbeb5e879529_1_105_c-e1598398339303.jpeg
 date: "2020-08-26T23:27:00+00:00"
-guid: https://neartao.wordpress.com/?p=947
+guid: https://neartao.com/?p=947
 parent_post_id: null
 post_id: "947"
 publicize_tumblr_url: http://.tumblr.com/post/627556595103039489

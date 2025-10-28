@@ -27,7 +27,7 @@ cover:
   alt: MPCBB 292 - Space Dust
   image: /wp-content/uploads/2020/10/mpcbb-292-space-dust.png
 date: "2020-10-13T21:11:55+00:00"
-guid: https://neartao.wordpress.com/?p=1090
+guid: https://neartao.com/?p=1090
 parent_post_id: null
 post_id: "1090"
 publicize_tumblr_url: http://.tumblr.com/post/631896560124510208

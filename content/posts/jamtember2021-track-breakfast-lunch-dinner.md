@@ -23,7 +23,7 @@ cover:
   alt: image 3
   image: /wp-content/uploads/2021/09/image-3.jpg
 date: "2021-09-04T01:40:36+00:00"
-guid: https://neartao.wordpress.com/?p=3042
+guid: https://neartao.com/?p=3042
 parent_post_id: null
 post_id: "3042"
 publicize_tumblr_url: http://.tumblr.com/post/661357477510643712

@@ -21,7 +21,7 @@ cover:
   alt: 18f871df-2c8a-11ec-928d-afdf63cff419
   image: /wp-content/uploads/2021/10/18f871df-2c8a-11ec-928d-afdf63cff419.png
 date: "2021-10-14T01:04:16+00:00"
-guid: https://neartao.wordpress.com/?p=3376
+guid: https://neartao.com/?p=3376
 parent_post_id: null
 post_id: "3376"
 publicize_twitter_user: NearTao

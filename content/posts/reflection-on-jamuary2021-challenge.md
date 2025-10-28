@@ -23,7 +23,7 @@ cover:
   alt: NearTao - Jamuary 2021
   image: /wp-content/uploads/2021/02/neartao-jamuary-2021.png
 date: "2021-02-06T15:42:05+00:00"
-guid: https://neartao.wordpress.com/?p=2055
+guid: https://neartao.com/?p=2055
 parent_post_id: null
 post_id: "2055"
 publicize_tumblr_url: http://.tumblr.com/post/642385057474134016

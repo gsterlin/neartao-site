@@ -36,7 +36,7 @@ cover:
   alt: Untitled
   image: /wp-content/uploads/2022/01/untitled.jpg
 date: "2022-01-08T14:40:20+00:00"
-guid: https://neartao.wordpress.com/?page_id=3609
+guid: https://neartao.com/?page_id=3609
 parent_post_id: null
 post_id: "3609"
 spay_email: ""

@@ -23,7 +23,7 @@ cover:
   alt: IMG_0381
   image: /wp-content/uploads/2019/12/img_0381.jpeg
 date: "2020-06-02T00:04:51+00:00"
-guid: https://neartao.wordpress.com/?p=490
+guid: https://neartao.com/?p=490
 parent_post_id: null
 post_id: "490"
 publicize_twitter_user: NearTao

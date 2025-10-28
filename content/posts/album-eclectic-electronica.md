@@ -8,7 +8,7 @@ cover:
   alt: Eclectic Electronica Cover
   image: /wp-content/uploads/2019/10/eclectic-electronica-cover.jpg
 date: "2019-11-08T00:41:00+00:00"
-guid: https://neartao.wordpress.com/?p=89
+guid: https://neartao.com/?p=89
 parent_post_id: null
 post_id: "89"
 tags:

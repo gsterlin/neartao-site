@@ -29,7 +29,7 @@ cover:
   alt: DSC_0042
   image: /wp-content/uploads/2020/07/dsc_0042.jpeg
 date: "2020-07-23T11:55:00+00:00"
-guid: https://neartao.wordpress.com/?p=773
+guid: https://neartao.com/?p=773
 parent_post_id: null
 post_id: "773"
 publicize_tumblr_url: http://.tumblr.com/post/624433109568454656

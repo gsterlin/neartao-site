@@ -33,7 +33,7 @@ cover:
   alt: Robot Love
   image: /wp-content/uploads/2020/08/robot-love.png
 date: "2020-08-14T16:55:00+00:00"
-guid: https://neartao.wordpress.com/?p=865
+guid: https://neartao.com/?p=865
 parent_post_id: null
 post_id: "865"
 publicize_tumblr_url: http://.tumblr.com/post/626445069783891968

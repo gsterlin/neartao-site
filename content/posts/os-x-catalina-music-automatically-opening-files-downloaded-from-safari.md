@@ -4,7 +4,7 @@ author: neartao
 categories:
   - technology
 date: "2019-11-15T12:49:38+00:00"
-guid: https://neartao.wordpress.com/?p=173
+guid: https://neartao.com/?p=173
 parent_post_id: null
 post_id: "173"
 tags:

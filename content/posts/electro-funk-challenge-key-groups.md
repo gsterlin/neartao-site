@@ -25,7 +25,7 @@ cover:
   alt: Robot Love - Logic Test
   image: /wp-content/uploads/2020/08/robot-love-logic-test.png
 date: "2020-08-13T23:50:05+00:00"
-guid: https://neartao.wordpress.com/?p=890
+guid: https://neartao.com/?p=890
 parent_post_id: null
 post_id: "890"
 publicize_tumblr_url: http://.tumblr.com/post/626380095633948672

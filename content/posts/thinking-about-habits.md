@@ -15,7 +15,7 @@ cover:
   alt: j640x480-13760
   image: /wp-content/uploads/2020/05/j640x480-13760.jpeg
 date: "2020-05-31T22:45:06+00:00"
-guid: https://neartao.wordpress.com/?p=483
+guid: https://neartao.com/?p=483
 parent_post_id: null
 post_id: "483"
 publicize_twitter_user: NearTao

@@ -8,7 +8,7 @@ cover:
   alt: IMG_0064
   image: /wp-content/uploads/2019/11/img_0064.jpeg
 date: "2019-11-27T22:27:11+00:00"
-guid: https://neartao.wordpress.com/?p=187
+guid: https://neartao.com/?p=187
 parent_post_id: null
 post_id: "187"
 timeline_notification: "1574893633"

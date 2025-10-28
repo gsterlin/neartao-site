@@ -16,7 +16,7 @@ author: neartao
 categories:
   - music-production
 date: "2021-10-08T00:23:57+00:00"
-guid: https://neartao.wordpress.com/?p=3351
+guid: https://neartao.com/?p=3351
 parent_post_id: null
 post_id: "3351"
 publicize_tumblr_url: http://.tumblr.com/post/664432953016860672

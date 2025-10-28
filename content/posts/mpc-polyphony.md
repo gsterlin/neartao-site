@@ -7,7 +7,7 @@ categories:
   - uncategorized
 date: "2021-01-22T08:24:07+00:00"
 draft: "true"
-guid: https://neartao.wordpress.com/?p=1845
+guid: https://neartao.com/?p=1845
 parent_post_id: null
 post_id: "1845"
 title: MPC Polyphony

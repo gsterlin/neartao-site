@@ -16,7 +16,7 @@ cover:
   alt: Untitled
   image: /wp-content/uploads/2022/01/untitled.jpg
 date: "2022-02-27T21:33:13+00:00"
-guid: https://neartao.wordpress.com/?p=3733
+guid: https://neartao.com/?p=3733
 parent_post_id: null
 post_id: "3733"
 publicize_tumblr_url: http://.tumblr.com/post/677377576537292800

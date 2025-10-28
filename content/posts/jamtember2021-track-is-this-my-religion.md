@@ -22,7 +22,7 @@ cover:
   alt: image 23
   image: /wp-content/uploads/2021/09/image-23.jpg
 date: "2021-09-20T00:57:10+00:00"
-guid: https://neartao.wordpress.com/2021/09/19/jamtember2021-track-is-this-my-religion/
+guid: https://neartao.com/2021/09/19/jamtember2021-track-is-this-my-religion/
 parent_post_id: null
 post_id: "3213"
 publicize_tumblr_url: http://.tumblr.com/post/662804297174679552

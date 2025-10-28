@@ -37,7 +37,7 @@ cover:
   alt: IMG_0934
   image: /wp-content/uploads/2020/06/img_0934.jpeg
 date: "2020-06-13T10:47:00+00:00"
-guid: https://neartao.wordpress.com/?p=534
+guid: https://neartao.com/?p=534
 parent_post_id: null
 post_id: "534"
 publicize_tumblr_url: http://.tumblr.com/post/620804474742751232

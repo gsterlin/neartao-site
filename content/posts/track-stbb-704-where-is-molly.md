@@ -24,7 +24,7 @@ cover:
   alt: where-is-molly
   image: /wp-content/uploads/2020/09/where-is-molly.png
 date: "2020-09-02T18:19:00+00:00"
-guid: https://neartao.wordpress.com/?p=979
+guid: https://neartao.com/?p=979
 parent_post_id: null
 post_id: "979"
 publicize_tumblr_url: http://.tumblr.com/post/628352616715386880

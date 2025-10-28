@@ -25,7 +25,7 @@ cover:
   alt: IMG_1505
   image: /wp-content/uploads/2020/01/img_1505.jpeg
 date: "2020-05-14T15:13:27+00:00"
-guid: https://neartao.wordpress.com/?p=376
+guid: https://neartao.com/?p=376
 parent_post_id: null
 post_id: "376"
 publicize_twitter_user: NearTao

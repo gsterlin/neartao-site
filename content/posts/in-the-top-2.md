@@ -21,7 +21,7 @@ categories:
   - uncategorized
 date: "2024-05-10T14:53:43+00:00"
 firehose_sent: "1715352824"
-guid: https://neartao.wordpress.com/?p=4039
+guid: https://neartao.com/?p=4039
 parent_post_id: null
 post_id: "4039"
 reader_suggested_tags: '["Patreon","YouTube","Social Media","Writing","Blog"]'
@@ -57,7 +57,7 @@ It is like a link soup all of this. Heck I'm just going to just post what I had 
 
 The Buy Me A Coffee shop was setup with some downloadable items listed. I can set the prices as low as $1 (maybe even $0) which is nice, though file upload limits are annoying. I’ve put together some sound sets and things, and most of the descriptions have links to go to if you want to download some (or in some cases all) of the content for free. I’m mostly putting these sound sets here as a place to aggregate some of the things I’ve done over the years that might start to get harder to find. I’m also paying for probably too many hosting services and will at some point try and collapse down to a smaller number of systems.
 
-- [neartao.wordpress.com/2023/12/11/roland-sp-404-mk2-guide-v0-29/](/2023/12/11/roland-sp-404-mk2-guide-v0-29/)
+- [neartao.com/2023/12/11/roland-sp-404-mk2-guide-v0-29/](/2023/12/11/roland-sp-404-mk2-guide-v0-29/)
 
 One of the services I pay for… Wordpress. It’s not unbelievably pricey, but is really just a place I generally just upload files to lately instead of blogging. The link goes to the latest “freely available” guide, it covers version 3.x. People from time to time reach out and ask how to support me, and I’ve settled on publishing interim “incomplete” or “minor update” versions of the guide to my Patreon for subscribers only… I am in the process of updating the guide to firmware 4.04… but subscribers can get the minor updates as they happen…
 

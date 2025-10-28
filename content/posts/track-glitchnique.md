@@ -25,7 +25,7 @@ cover:
   alt: screen-shot-2020-05-14-at-1.14.26-pm
   image: /wp-content/uploads/2020/05/screen-shot-2020-05-14-at-1.14.26-pm.png
 date: "2020-05-27T17:05:00+00:00"
-guid: https://neartao.wordpress.com/?p=390
+guid: https://neartao.com/?p=390
 parent_post_id: null
 post_id: "390"
 publicize_twitter_user: NearTao

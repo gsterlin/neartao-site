@@ -16,7 +16,7 @@ author: neartao
 categories:
   - uncategorized
 date: "2021-05-25T12:05:41+00:00"
-guid: https://neartao.wordpress.com/?p=2899
+guid: https://neartao.com/?p=2899
 parent_post_id: null
 post_id: "2899"
 publicize_tumblr_url: http://.tumblr.com/post/652155913550102528

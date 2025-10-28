@@ -30,7 +30,7 @@ cover:
   alt: 1dsbjy4zksu-ta0zfkfuwbg
   image: /wp-content/uploads/2020/05/1dsbjy4zksu-ta0zfkfuwbg.png
 date: "2020-05-19T23:27:23+00:00"
-guid: https://neartao.wordpress.com/?p=444
+guid: https://neartao.com/?p=444
 parent_post_id: null
 post_id: "444"
 publicize_twitter_user: NearTao

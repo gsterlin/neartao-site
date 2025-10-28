@@ -18,7 +18,7 @@ categories:
   - music-production
   - uncategorized
 date: "2021-10-08T23:47:12+00:00"
-guid: https://neartao.wordpress.com/?p=3356
+guid: https://neartao.com/?p=3356
 parent_post_id: null
 post_id: "3356"
 publicize_tumblr_url: http://.tumblr.com/post/664521237401387008

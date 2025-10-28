@@ -5,7 +5,7 @@ categories:
   - uncategorized
 date: "2021-02-03T19:18:51+00:00"
 draft: "true"
-guid: https://neartao.wordpress.com/?p=2017
+guid: https://neartao.com/?p=2017
 parent_post_id: null
 post_id: "2017"
 title: Tuning a Process While Using It

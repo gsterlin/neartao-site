@@ -18,7 +18,7 @@ cover:
   alt: Screen Shot 2021-12-06 at 10.12.32 AM
   image: /wp-content/uploads/2021/12/screen-shot-2021-12-06-at-10.12.32-am.png
 date: "2021-12-06T15:13:24+00:00"
-guid: https://neartao.wordpress.com/?p=3598
+guid: https://neartao.com/?p=3598
 parent_post_id: null
 post_id: "3598"
 publicize_tumblr_url: http://.tumblr.com/post/669834134195175424

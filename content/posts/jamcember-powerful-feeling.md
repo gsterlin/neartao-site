@@ -28,7 +28,7 @@ cover:
   alt: Screen Shot 2020-12-06 at 5.23.04 PM
   image: /wp-content/uploads/2020/12/screen-shot-2020-12-06-at-5.23.04-pm.png
 date: "2020-12-07T00:07:36+00:00"
-guid: https://neartao.wordpress.com/?p=1341
+guid: https://neartao.com/?p=1341
 parent_post_id: null
 post_id: "1341"
 publicize_tumblr_url: http://.tumblr.com/post/636799851289608193

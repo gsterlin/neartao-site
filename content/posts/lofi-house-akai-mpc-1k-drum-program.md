@@ -17,7 +17,7 @@ enclosure: |-
   https://neartao.files.wordpress.com/2019/12/lofi-loop.wav
   884844
   audio/wav
-guid: https://neartao.wordpress.com/?p=230
+guid: https://neartao.com/?p=230
 parent_post_id: null
 post_id: "230"
 publicize_twitter_user: NearTao

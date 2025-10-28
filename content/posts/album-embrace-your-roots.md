@@ -21,7 +21,7 @@ cover:
   alt: a0261230010_16
   image: /wp-content/uploads/2020/05/a0261230010_16.jpg
 date: "2020-06-14T15:39:00+00:00"
-guid: https://neartao.wordpress.com/?p=100
+guid: https://neartao.com/?p=100
 parent_post_id: null
 post_id: "100"
 publicize_tumblr_url: http://.tumblr.com/post/620915125999796224

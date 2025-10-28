@@ -15,7 +15,7 @@ cover:
   alt: 60737160074__f5bcf8af-9e5d-459d-8e0c-a14b26ec866f
   image: /wp-content/uploads/2020/05/60737160074__f5bcf8af-9e5d-459d-8e0c-a14b26ec866f.jpg
 date: "2020-05-30T17:03:35+00:00"
-guid: https://neartao.wordpress.com/?p=474
+guid: https://neartao.com/?p=474
 parent_post_id: null
 post_id: "474"
 publicize_twitter_user: NearTao

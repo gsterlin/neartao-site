@@ -26,7 +26,7 @@ cover:
   alt: image 8
   image: /wp-content/uploads/2021/08/image-8.jpg
 date: "2021-08-27T13:43:48+00:00"
-guid: https://neartao.wordpress.com/?p=3000
+guid: https://neartao.com/?p=3000
 parent_post_id: null
 post_id: "3000"
 publicize_tumblr_url: http://.tumblr.com/post/660678202440744960

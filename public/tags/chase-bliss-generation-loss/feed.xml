@@ -12,7 +12,7 @@
       <title>LoFi Buttery Piano - Akai MPC X Program</title>
       <link>http://localhost:1313/2020/03/08/lofi-buttery-piano-akai-mpc-x-program/</link>
       <pubDate>Sun, 08 Mar 2020 23:21:10 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=369</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=369</guid> 
       <description>&lt;p&gt;Let me start by explaining the patch a bit, and how I got here&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Life started off on the Akai S950, using piano multi samples from G1 through C4, every sixth note&amp;hellip; My goal was to get some of that S950 12-bit grit and artifacts, but still keep it relatively free of the crazy stretching artifacts you can get by just sampling a single note and stretching it across the entire keyboard. This way, it maintains a lot of the characteristics of a piano, instead of heading into the field of creating what sounds like a more synthetic instrument.&lt;/p&gt;</description>
     </item>
@@ -20,14 +20,14 @@
       <title>Sloppy Piano Chops - Akai MPC 1k Program</title>
       <link>http://localhost:1313/2019/12/04/sloppy-piano-chops-akai-mpc-1k-program/</link>
       <pubDate>Wed, 04 Dec 2019 01:24:48 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=242</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=242</guid> 
       <description>&lt;p&gt;Well, I broke down and got a guitar pedal board today, so I could more easily work with multiple pedals. Before it was one at a time, but not any more. Now I can run them in series and mix and match for some more interesting effects. I&amp;rsquo;ll have to start posting about putting the pedal board together and powering it. Oh and hacking on the plastic to get everything to fit, but I&amp;rsquo;ll leave that for another day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cheap Piano - Akai MPC 1000 Program</title>
       <link>http://localhost:1313/2019/11/29/cheap-piano-akai-mpc-1000-program/</link>
       <pubDate>Fri, 29 Nov 2019 01:48:37 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=204</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=204</guid> 
       <description>&lt;p&gt;I&amp;rsquo;m pulling together on a track on my MPC 1k, and have been playing around with a few piano sounds. The initial sound comes from the OP-1, from the Fake Piano patch under the DR Wave engine. I liked this sound as a starting point, and it reminds me a bit of the old Casio keyboards from the 80&amp;rsquo;s. I changed the presets a bit, and in particular turned off the Spring reverb as this was giving it a bit too much presence.&lt;/p&gt;</description>
     </item>
   </channel>

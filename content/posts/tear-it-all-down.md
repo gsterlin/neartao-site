@@ -16,7 +16,7 @@ cover:
   alt: IMG_3179
   image: /wp-content/uploads/2021/11/img_3179.jpeg
 date: "2021-11-17T18:39:37+00:00"
-guid: https://neartao.wordpress.com/?p=3561
+guid: https://neartao.com/?p=3561
 parent_post_id: null
 post_id: "3561"
 publicize_tumblr_url: http://.tumblr.com/post/668125765184995328

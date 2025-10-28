@@ -13,7 +13,7 @@ cover:
   alt: 82dcdd72-a9ae-4c1c-9e80-eec13e5f4d21
   image: /wp-content/uploads/2020/05/82dcdd72-a9ae-4c1c-9e80-eec13e5f4d21.jpeg
 date: "2020-05-15T13:35:58+00:00"
-guid: https://neartao.wordpress.com/?p=418
+guid: https://neartao.com/?p=418
 parent_post_id: null
 post_id: "418"
 publicize_twitter_user: NearTao

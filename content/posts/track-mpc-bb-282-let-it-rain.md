@@ -27,7 +27,7 @@ cover:
   alt: BB 282 Let it Rain
   image: /wp-content/uploads/2020/06/bb-282-let-it-rain.png
 date: "2020-06-22T18:50:11+00:00"
-guid: https://neartao.wordpress.com/?p=594
+guid: https://neartao.com/?p=594
 parent_post_id: null
 post_id: "594"
 publicize_tumblr_url: http://.tumblr.com/post/621650186351067136

@@ -7,7 +7,7 @@ categories:
   - uncategorized
 date: "2021-02-03T10:32:59+00:00"
 draft: "true"
-guid: https://neartao.wordpress.com/?p=1883
+guid: https://neartao.com/?p=1883
 parent_post_id: null
 post_id: "1883"
 title: Morphing Sounds in Keygroups

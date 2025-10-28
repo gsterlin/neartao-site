@@ -26,7 +26,7 @@ cover:
   alt: Screen Shot 2021-03-09 at 7.35.06 AM
   image: /wp-content/uploads/2021/03/screen-shot-2021-03-09-at-7.35.06-am.png
 date: "2021-03-09T12:36:33+00:00"
-guid: https://neartao.wordpress.com/?p=2404
+guid: https://neartao.com/?p=2404
 parent_post_id: null
 post_id: "2404"
 publicize_twitter_user: NearTao

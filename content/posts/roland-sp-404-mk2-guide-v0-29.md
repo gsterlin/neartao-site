@@ -13,7 +13,7 @@ cover:
   image: /wp-content/uploads/2022/01/untitled.jpg
 date: "2023-12-11T20:52:51+00:00"
 firehose_sent: "1702327973"
-guid: https://neartao.wordpress.com/?p=4018
+guid: https://neartao.com/?p=4018
 parent_post_id: null
 post_id: "4018"
 publicize_tumblr_url: http://near-tao.tumblr.com/post/736444260520460288

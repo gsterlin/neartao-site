@@ -24,7 +24,7 @@ cover:
   alt: image 17
   image: /wp-content/uploads/2021/05/image-17.jpg
 date: "2021-04-11T18:24:00+00:00"
-guid: https://neartao.wordpress.com/?p=2649
+guid: https://neartao.com/?p=2649
 parent_post_id: null
 post_id: "2649"
 publicize_tumblr_url: http://.tumblr.com/post/650549230676688896

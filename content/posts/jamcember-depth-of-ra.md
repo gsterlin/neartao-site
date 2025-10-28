@@ -24,7 +24,7 @@ cover:
   alt: IMG_1416
   image: /wp-content/uploads/2020/12/img_1416.jpeg
 date: "2020-12-09T22:24:09+00:00"
-guid: https://neartao.wordpress.com/?p=1371
+guid: https://neartao.com/?p=1371
 parent_post_id: null
 post_id: "1371"
 publicize_twitter_user: NearTao

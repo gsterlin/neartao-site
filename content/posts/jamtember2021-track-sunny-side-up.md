@@ -23,7 +23,7 @@ cover:
   alt: Untitled_Artwork
   image: /wp-content/uploads/2021/09/untitled_artwork.jpg
 date: "2021-09-30T00:04:26+00:00"
-guid: https://neartao.wordpress.com/?p=3290
+guid: https://neartao.com/?p=3290
 parent_post_id: null
 post_id: "3290"
 publicize_tumblr_url: http://.tumblr.com/post/663706950546161664

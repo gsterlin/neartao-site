@@ -4,7 +4,7 @@ categories:
   - uncategorized
 date: "2021-05-24T08:43:12+00:00"
 draft: "true"
-guid: https://neartao.wordpress.com/?p=2897
+guid: https://neartao.com/?p=2897
 parent_post_id: null
 post_id: "2897"
 title: Field Recording Tips

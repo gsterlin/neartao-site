@@ -20,7 +20,7 @@ cover:
   alt: IMG_1026
   image: /wp-content/uploads/2020/07/img_1026-e1593817420551.jpeg
 date: "2020-07-03T23:52:43+00:00"
-guid: https://neartao.wordpress.com/?p=644
+guid: https://neartao.com/?p=644
 parent_post_id: null
 post_id: "644"
 publicize_tumblr_url: http://.tumblr.com/post/622665785974947840
@@ -33,7 +33,7 @@ title: Akai MPC 500 Repair
 url: /2020/07/03/akai-mpc-500-repair/
 
 ---
-So a few days back I posted about picking up an [Akai MPC 500 on Reverb](https://wordpress.com/block-editor/post/neartao.wordpress.com/620)... and it was absolutely a mess inside. In case you didn't see it, I'll post a picture below, but it was all jacked up. I suspect something heavy was dropped on it, or some other excessive amount of force. Maybe you can help decide?
+So a few days back I posted about picking up an [Akai MPC 500 on Reverb](https://wordpress.com/block-editor/post/neartao.com/620)... and it was absolutely a mess inside. In case you didn't see it, I'll post a picture below, but it was all jacked up. I suspect something heavy was dropped on it, or some other excessive amount of force. Maybe you can help decide?
 
 {{< figure src="/wp-content/uploads/2020/06/99d1f477-1d68-410d-afad-a60e004da54c%5F1%5F105%5Fc.jpeg?w=768" alt="" caption="" >}}
 

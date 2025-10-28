@@ -12,7 +12,7 @@ cover:
   alt: IMG_0381
   image: /wp-content/uploads/2019/12/img_0381.jpeg
 date: "2019-12-25T18:56:00+00:00"
-guid: https://neartao.wordpress.com/?p=279
+guid: https://neartao.com/?p=279
 parent_post_id: null
 post_id: "279"
 tags:

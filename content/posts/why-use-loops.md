@@ -22,7 +22,7 @@ enclosure: |-
   https://neartao.files.wordpress.com/2019/12/triton-1-polyphet.wav
   1764124
   audio/wav
-guid: https://neartao.wordpress.com/?p=2148
+guid: https://neartao.com/?p=2148
 parent_post_id: null
 post_id: "2148"
 publicize_tumblr_url: http://.tumblr.com/post/642662449962729472

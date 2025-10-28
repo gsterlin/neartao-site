@@ -27,7 +27,7 @@ cover:
   alt: 'STBB #705 - Dance Boy'
   image: /wp-content/uploads/2020/09/stbb-705-dance-boy.png
 date: "2020-09-09T20:38:58+00:00"
-guid: https://neartao.wordpress.com/?p=995
+guid: https://neartao.com/?p=995
 parent_post_id: null
 post_id: "995"
 publicize_tumblr_url: http://.tumblr.com/post/628814189425803264

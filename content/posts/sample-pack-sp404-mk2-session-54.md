@@ -12,7 +12,7 @@ author: neartao
 categories:
   - uncategorized
 date: "2023-04-18T13:02:21+00:00"
-guid: https://neartao.wordpress.com/?p=3935
+guid: https://neartao.com/?p=3935
 parent_post_id: null
 post_id: "3935"
 publicize_tumblr_url: http://near-tao.tumblr.com/post/714943177401991168

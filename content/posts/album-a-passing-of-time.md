@@ -15,7 +15,7 @@ cover:
   alt: A Passing of Time
   image: /wp-content/uploads/2019/10/a-passing-of-time.jpg
 date: "2020-05-19T12:32:00+00:00"
-guid: https://neartao.wordpress.com/?p=409
+guid: https://neartao.com/?p=409
 parent_post_id: null
 post_id: "409"
 publicize_twitter_user: NearTao

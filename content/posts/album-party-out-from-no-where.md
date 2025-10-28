@@ -30,7 +30,7 @@ cover:
   alt: NearTao - Out From No Where
   image: /wp-content/uploads/2020/12/neartao-out-from-no-where.png
 date: "2020-12-03T17:43:35+00:00"
-guid: https://neartao.wordpress.com/?p=1315
+guid: https://neartao.com/?p=1315
 parent_post_id: null
 post_id: "1315"
 publicize_tumblr_url: http://.tumblr.com/post/636503897641451520

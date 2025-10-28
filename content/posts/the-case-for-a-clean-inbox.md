@@ -15,7 +15,7 @@ cover:
   alt: clean-inbox
   image: /wp-content/uploads/2020/10/clean-inbox.png
 date: "2020-10-22T18:20:00+00:00"
-guid: https://neartao.wordpress.com/?p=1163
+guid: https://neartao.com/?p=1163
 parent_post_id: null
 post_id: "1163"
 publicize_tumblr_url: http://.tumblr.com/post/632701601959854080

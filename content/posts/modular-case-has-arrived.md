@@ -12,7 +12,7 @@ author: neartao
 categories:
   - music-production
 date: "2020-07-17T14:28:00+00:00"
-guid: https://neartao.wordpress.com/?p=729
+guid: https://neartao.com/?p=729
 parent_post_id: null
 post_id: "729"
 publicize_tumblr_url: http://.tumblr.com/post/624263025972690944

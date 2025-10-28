@@ -29,7 +29,7 @@ cover:
   alt: IMG_1529
   image: /wp-content/uploads/2020/12/img_1529.jpg
 date: "2020-12-25T13:56:00+00:00"
-guid: https://neartao.wordpress.com/?p=1500
+guid: https://neartao.com/?p=1500
 parent_post_id: null
 post_id: "1500"
 publicize_tumblr_url: http://.tumblr.com/post/638573637768806400

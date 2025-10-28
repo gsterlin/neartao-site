@@ -12,7 +12,7 @@
       <title>Track - Live High</title>
       <link>http://localhost:1313/2020/05/29/track-live-high/</link>
       <pubDate>Fri, 29 May 2020 23:48:00 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=453</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=453</guid> 
       <description>&lt;p&gt;This track started life on the MPC X, and I did everything I could to try and use Clip mode to create loops. How the MPC X handles clips is close to what I need, especially compared to how previous versions handled clips&amp;hellip; but I have to say, it is not quite there.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve got two main problems with how the MPC X handles clips. The first problem is that the looper cannot be used in real time in many instances, because you are forced to take audio off of your inputs (mostly fine) or resampling (not really fine). Resampling means that you&amp;rsquo;ve got to take a break in your workflow if you want to resample something you are doing live while running other audio. The other problem I hit was that when you export the loop from audio to a sample, when you assign it in clip mode, it does some kind of strange BPM timing&amp;hellip; and this almost never matched what the project I was working on. Although my project was 96bpm, it would just assume what seemed like a random BPM 90% of the time, and with warping on it would sound like hot stretched garbage, even with the Pro Ten warping turned on. This is a big bummer and doesn&amp;rsquo;t bode well for using the MPC X as something you could use in a live environment.&lt;/p&gt;</description>
     </item>

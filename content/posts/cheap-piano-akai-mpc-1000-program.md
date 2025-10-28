@@ -23,7 +23,7 @@ enclosure: |-
   https://neartao.files.wordpress.com/2019/11/cheap-piano.wav
   605388
   audio/wav
-guid: https://neartao.wordpress.com/?p=204
+guid: https://neartao.com/?p=204
 parent_post_id: null
 post_id: "204"
 publicize_twitter_user: NearTao

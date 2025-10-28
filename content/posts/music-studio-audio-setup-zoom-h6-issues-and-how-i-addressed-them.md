@@ -17,7 +17,7 @@ cover:
   alt: Audio Setup Sketch
   image: /wp-content/uploads/2021/11/audio-setup-sketch.jpg
 date: "2021-11-09T13:03:00+00:00"
-guid: https://neartao.wordpress.com/?p=3535
+guid: https://neartao.com/?p=3535
 parent_post_id: null
 post_id: "3535"
 publicize_tumblr_url: http://.tumblr.com/post/667471751922499584

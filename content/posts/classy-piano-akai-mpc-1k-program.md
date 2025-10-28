@@ -17,7 +17,7 @@ enclosure: |-
   https://neartao.files.wordpress.com/2019/12/classy-piano.wav
   1757528
   audio/wav
-guid: https://neartao.wordpress.com/?p=236
+guid: https://neartao.com/?p=236
 parent_post_id: null
 post_id: "236"
 publicize_twitter_user: NearTao

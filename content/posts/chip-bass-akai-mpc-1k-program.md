@@ -18,7 +18,7 @@ enclosure: |-
   https://neartao.files.wordpress.com/2019/12/chip-bass.wav
   1765296
   audio/wav
-guid: https://neartao.wordpress.com/?p=239
+guid: https://neartao.com/?p=239
 parent_post_id: null
 post_id: "239"
 publicize_twitter_user: NearTao

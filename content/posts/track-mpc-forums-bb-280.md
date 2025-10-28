@@ -23,7 +23,7 @@ cover:
   alt: img_4547
   image: /wp-content/uploads/2020/06/img_4547.jpeg
 date: "2020-06-08T12:55:34+00:00"
-guid: https://neartao.wordpress.com/?p=510
+guid: https://neartao.com/?p=510
 parent_post_id: null
 post_id: "510"
 publicize_twitter_user: NearTao

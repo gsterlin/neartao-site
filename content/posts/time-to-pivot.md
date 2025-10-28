@@ -5,7 +5,7 @@ categories:
   - uncategorized
 date: "2023-07-29T12:49:50+00:00"
 draft: "true"
-guid: https://neartao.wordpress.com/?p=3955
+guid: https://neartao.com/?p=3955
 parent_post_id: null
 post_id: "3955"
 title: Time to Pivot?

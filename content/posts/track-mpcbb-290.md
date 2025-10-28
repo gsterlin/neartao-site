@@ -25,7 +25,7 @@ cover:
   alt: MPCBB290 - Heavy Drag
   image: /wp-content/uploads/2020/09/mpcbb290-heavy-drag.png
 date: "2020-09-05T18:15:00+00:00"
-guid: https://neartao.wordpress.com/?p=973
+guid: https://neartao.com/?p=973
 parent_post_id: null
 post_id: "973"
 publicize_tumblr_url: http://.tumblr.com/post/628443989454028800

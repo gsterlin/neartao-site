@@ -25,7 +25,7 @@ cover:
   alt: Just Breath
   image: /wp-content/uploads/2020/10/just-breath.png
 date: "2020-10-14T20:49:50+00:00"
-guid: https://neartao.wordpress.com/?p=1101
+guid: https://neartao.com/?p=1101
 parent_post_id: null
 post_id: "1101"
 publicize_tumblr_url: http://.tumblr.com/post/631985767959396352

@@ -19,7 +19,7 @@ cover:
   alt: img_1790
   image: /wp-content/uploads/2021/02/img_1790.jpeg
 date: "2021-02-21T13:05:37+00:00"
-guid: https://neartao.wordpress.com/?p=2382
+guid: https://neartao.com/?p=2382
 parent_post_id: null
 post_id: "2382"
 publicize_tumblr_url: http://.tumblr.com/post/643734168011948032

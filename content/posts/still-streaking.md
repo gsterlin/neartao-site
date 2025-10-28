@@ -13,7 +13,7 @@ cover:
   alt: DSC_0061
   image: /wp-content/uploads/2020/06/dsc_0061.jpeg
 date: "2020-06-04T14:53:15+00:00"
-guid: https://neartao.wordpress.com/?p=494
+guid: https://neartao.com/?p=494
 parent_post_id: null
 post_id: "494"
 publicize_twitter_user: NearTao

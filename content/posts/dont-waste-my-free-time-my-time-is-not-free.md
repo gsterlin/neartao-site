@@ -27,7 +27,7 @@ cover:
   image: /wp-content/uploads/2025/08/screenshot-2025-08-05-at-7.00.50-am.png
 date: "2025-08-05T11:56:40+00:00"
 firehose_sent: "1754395001"
-guid: https://neartao.wordpress.com/?p=4127
+guid: https://neartao.com/?p=4127
 parent_post_id: null
 post_id: "4127"
 previously_liked_57141788: "1"

@@ -13,7 +13,7 @@ cover:
   alt: IMG_2998
   image: /wp-content/uploads/2020/05/img_2998.jpeg
 date: "2020-05-29T00:10:00+00:00"
-guid: https://neartao.wordpress.com/?p=458
+guid: https://neartao.com/?p=458
 parent_post_id: null
 post_id: "458"
 publicize_twitter_user: NearTao

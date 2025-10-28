@@ -12,7 +12,7 @@
       <title>Listening to Podcasts - Apple Podcasts vs Overcast</title>
       <link>http://localhost:1313/2020/08/11/listening-to-podcasts-apple-podcasts-vs-overcast/</link>
       <pubDate>Tue, 11 Aug 2020 16:05:09 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=838</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=838</guid> 
       <description>&lt;p&gt;I&amp;rsquo;ve been listening to podcasts for a number of years now in the iOS environment. I keep going back to Apple Podcasts every major release or new hardware deployment, but it just never sticks for me. The feature set is absolutely fine as it is, and if there were no other options I would probably stick with it.&lt;/p&gt;
 &lt;p&gt;Apple Podcasts&lt;/p&gt;
 &lt;p&gt;I upgraded to a new Mac, and have decided to give the Apple Podcasts app another spin. One thing that jumps out immediately is that it is not sync&amp;rsquo;ing podcasts across my iOS device and my Mac. Perhaps this is a feature that should work, but I would expect like most other Apple apps that this would be pretty simple to setup. There is an option under preferences to sync between devices, but it just doesn&amp;rsquo;t seem to do anything. I suppose I could search for how to do this on the internet, if it is there, it might as well not exist if it is not easy to figure out.&lt;/p&gt;</description>
@@ -21,7 +21,7 @@
       <title>OS X Multi Messaging Client</title>
       <link>http://localhost:1313/2020/06/21/os-x-multi-messaging-client/</link>
       <pubDate>Sun, 21 Jun 2020 14:37:00 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=570</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=570</guid> 
       <description>&lt;p&gt;It seems like the more teams I work with, the more friends and family I have, the more messaging clients I need to work with. Over the years I have been on many services including iMessage, ICQ, AOL Messenger, Google Chat, WhatsApp, Telegram, IRC, Slack, and many more. There are in fact so many messaging applications, that I am not going to bother to list them all.&lt;/p&gt;
 &lt;p&gt;Sure, you can load all of the local apps, but anybody who has tried doing this knows that you end up with a mess in your taskbar, and worse, trying to mute messages can be a real chore when you are in a meeting because you may have 10+ services that need to be silenced.&lt;/p&gt;</description>
     </item>
@@ -29,7 +29,7 @@
       <title>OS X Catalina - Music Automatically Opening Files Downloaded from Safari</title>
       <link>http://localhost:1313/2019/11/15/os-x-catalina-music-automatically-opening-files-downloaded-from-safari/</link>
       <pubDate>Fri, 15 Nov 2019 12:49:38 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=173</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=173</guid> 
       <description>&lt;p&gt;TL;DR go to Safari -&amp;gt; Perferences -&amp;gt; General, and uncheck Open &amp;ldquo;safe&amp;rdquo; files after downloading to disable automatic opening of files downloaded by Safari.&lt;/p&gt;
 &lt;p&gt;A problem I&amp;rsquo;ve had with downloading content in OS X has been that a lot of files will automatically open once you&amp;rsquo;ve downloaded them. For compressed files, it will uncompress them, for PDFs it will automatically open them into Preview, and for audio files it will automatically start playing them in Music. For the compressed files, PDFs and others, I&amp;rsquo;m often not downloading enough of them to be too upset by this feature, but when I am downloading stems, one shots, or other audio content, I don&amp;rsquo;t always want it automatically imported into Music.&lt;/p&gt;</description>
     </item>

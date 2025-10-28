@@ -16,7 +16,7 @@ cover:
   alt: EF458734-3C42-4704-AB4E-2776C865AA80_1_102_o
   image: /wp-content/uploads/2023/04/ef458734-3c42-4704-ab4e-2776c865aa80_1_102_o.jpeg
 date: "2023-04-07T15:24:40+00:00"
-guid: https://neartao.wordpress.com/?p=3870
+guid: https://neartao.com/?p=3870
 parent_post_id: null
 post_id: "3870"
 publicize_tumblr_url: http://near-tao.tumblr.com/post/713955586995257344

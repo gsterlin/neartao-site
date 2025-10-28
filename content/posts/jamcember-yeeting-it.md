@@ -27,7 +27,7 @@ cover:
   alt: IMG_1448
   image: /wp-content/uploads/2020/12/img_1448.jpg
 date: "2020-12-16T17:07:00+00:00"
-guid: https://neartao.wordpress.com/?p=1421
+guid: https://neartao.com/?p=1421
 parent_post_id: null
 post_id: "1421"
 publicize_tumblr_url: http://.tumblr.com/post/637770503526989824

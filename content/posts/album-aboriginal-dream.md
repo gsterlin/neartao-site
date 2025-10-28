@@ -8,7 +8,7 @@ cover:
   alt: J4000x3000-00448
   image: /wp-content/uploads/2019/10/j4000x3000-00448.jpg
 date: "2019-10-26T00:13:00+00:00"
-guid: https://neartao.wordpress.com/?p=85
+guid: https://neartao.com/?p=85
 parent_post_id: null
 post_id: "85"
 tags:

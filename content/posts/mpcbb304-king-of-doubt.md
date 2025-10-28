@@ -23,7 +23,7 @@ cover:
   alt: Screen Shot 2021-03-09 at 8.07.49 AM
   image: /wp-content/uploads/2021/03/screen-shot-2021-03-09-at-8.07.49-am.png
 date: "2021-03-02T13:07:00+00:00"
-guid: https://neartao.wordpress.com/?p=2421
+guid: https://neartao.com/?p=2421
 parent_post_id: null
 post_id: "2421"
 publicize_tumblr_url: http://.tumblr.com/post/645183963605975040

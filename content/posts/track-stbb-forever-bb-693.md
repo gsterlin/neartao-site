@@ -25,7 +25,7 @@ cover:
   alt: Down With It
   image: /wp-content/uploads/2020/06/down-with-it.png
 date: "2020-06-17T10:35:00+00:00"
-guid: https://neartao.wordpress.com/?p=575
+guid: https://neartao.com/?p=575
 parent_post_id: null
 post_id: "575"
 publicize_tumblr_url: http://.tumblr.com/post/621167748239769600

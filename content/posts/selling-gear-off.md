@@ -13,7 +13,7 @@ cover:
   alt: For_Sale 2
   image: /wp-content/uploads/2020/05/for_sale-2.jpg
 date: "2020-05-18T15:37:00+00:00"
-guid: https://neartao.wordpress.com/?p=382
+guid: https://neartao.com/?p=382
 parent_post_id: null
 post_id: "382"
 publicize_twitter_user: NearTao

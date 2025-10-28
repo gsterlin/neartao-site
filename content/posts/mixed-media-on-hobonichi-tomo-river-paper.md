@@ -16,7 +16,7 @@ cover:
   alt: Screen Shot 2020-11-06 at 6.21.43 PM
   image: /wp-content/uploads/2020/11/screen-shot-2020-11-06-at-6.21.43-pm.png
 date: "2020-11-06T23:34:21+00:00"
-guid: https://neartao.wordpress.com/?p=1193
+guid: https://neartao.com/?p=1193
 parent_post_id: null
 post_id: "1193"
 publicize_tumblr_url: http://.tumblr.com/post/634079848036450304

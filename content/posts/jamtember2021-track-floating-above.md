@@ -25,7 +25,7 @@ cover:
   alt: Screen Shot 2021-09-27 at 8.01.54 PM
   image: /wp-content/uploads/2021/09/screen-shot-2021-09-27-at-8.01.54-pm.png
 date: "2021-09-28T00:18:20+00:00"
-guid: https://neartao.wordpress.com/?p=3274
+guid: https://neartao.com/?p=3274
 parent_post_id: null
 post_id: "3274"
 publicize_twitter_user: NearTao

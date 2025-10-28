@@ -9,7 +9,7 @@ author: neartao
 categories:
   - health
 date: "2019-12-31T17:35:43+00:00"
-guid: https://neartao.wordpress.com/?p=251
+guid: https://neartao.com/?p=251
 parent_post_id: null
 post_id: "251"
 publicize_twitter_user: NearTao

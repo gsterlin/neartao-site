@@ -17,7 +17,7 @@ cover:
   alt: Screen Shot 2021-01-25 at 1.25.14 PM
   image: /wp-content/uploads/2021/01/screen-shot-2021-01-25-at-1.25.14-pm.png
 date: "2021-05-01T21:25:00+00:00"
-guid: https://neartao.wordpress.com/?p=2744
+guid: https://neartao.com/?p=2744
 parent_post_id: null
 post_id: "2744"
 publicize_tumblr_url: http://.tumblr.com/post/650560472786059264

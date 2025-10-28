@@ -26,7 +26,7 @@ cover:
   alt: 62169206836__B31102D5-6B28-4ABE-8063-C0A16EECBB7F
   image: /wp-content/uploads/2020/12/62169206836__b31102d5-6b28-4abe-8063-c0a16eecbb7f.jpg
 date: "2020-12-04T22:20:58+00:00"
-guid: https://neartao.wordpress.com/?p=1324
+guid: https://neartao.com/?p=1324
 parent_post_id: null
 post_id: "1324"
 publicize_tumblr_url: http://.tumblr.com/post/636611947342741504

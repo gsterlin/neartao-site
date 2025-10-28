@@ -7,7 +7,7 @@ author: neartao
 categories:
   - productivity
 date: "2019-10-16T22:41:49+00:00"
-guid: https://neartao.wordpress.com/2019/10/16/ooooooof/
+guid: https://neartao.com/2019/10/16/ooooooof/
 parent_post_id: null
 post_id: "53"
 timeline_notification: "1571265711"

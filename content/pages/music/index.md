@@ -52,7 +52,7 @@ cover:
   alt: J4000x3000-00448
   image: /wp-content/uploads/2019/10/j4000x3000-00448.jpg
 date: "2019-10-16T23:47:08+00:00"
-guid: https://neartao.wordpress.com/?page_id=77
+guid: https://neartao.com/?page_id=77
 parent_post_id: null
 post_id: "77"
 title: Albums

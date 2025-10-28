@@ -24,7 +24,7 @@ cover:
   alt: DSC_0016
   image: /wp-content/uploads/2021/01/dsc_0016-e1611793807471.jpeg
 date: "2021-01-28T00:33:57+00:00"
-guid: https://neartao.wordpress.com/?p=1908
+guid: https://neartao.com/?p=1908
 parent_post_id: null
 post_id: "1908"
 publicize_tumblr_url: http://.tumblr.com/post/641512551209910272

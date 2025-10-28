@@ -8,7 +8,7 @@ cover:
   alt: IMG_0588
   image: /wp-content/uploads/2019/10/img_0588.jpg
 date: "2019-10-19T14:48:08+00:00"
-guid: https://neartao.wordpress.com/?p=141
+guid: https://neartao.com/?p=141
 parent_post_id: null
 post_id: "141"
 tags:

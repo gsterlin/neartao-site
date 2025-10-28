@@ -15,7 +15,7 @@ categories:
   - music-production
   - news
 date: "2021-01-21T17:35:21+00:00"
-guid: https://neartao.wordpress.com/?p=1826
+guid: https://neartao.com/?p=1826
 parent_post_id: null
 post_id: "1826"
 publicize_tumblr_url: http://.tumblr.com/post/640942630474235904

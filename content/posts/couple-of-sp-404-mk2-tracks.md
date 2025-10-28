@@ -20,7 +20,7 @@ cover:
   alt: 5b367601-5acb-11ec-a70b-93bab3431920
   image: /wp-content/uploads/2021/12/5b367601-5acb-11ec-a70b-93bab3431920.png
 date: "2021-12-14T00:06:19+00:00"
-guid: https://neartao.wordpress.com/?p=3602
+guid: https://neartao.com/?p=3602
 parent_post_id: null
 post_id: "3602"
 publicize_tumblr_url: http://.tumblr.com/post/670501840217079808

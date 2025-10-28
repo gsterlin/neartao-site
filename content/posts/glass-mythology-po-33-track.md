@@ -15,7 +15,7 @@ cover:
   alt: IMG_4521
   image: /wp-content/uploads/2020/01/img_4521.jpeg
 date: "2020-01-10T02:00:00+00:00"
-guid: https://neartao.wordpress.com/?p=330
+guid: https://neartao.com/?p=330
 parent_post_id: null
 post_id: "330"
 publicize_twitter_user: NearTao

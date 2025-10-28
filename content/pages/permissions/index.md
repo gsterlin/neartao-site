@@ -9,7 +9,7 @@ _starter_page_template: blank
 amp_status: ""
 author: neartao
 date: "2021-02-04T22:25:47+00:00"
-guid: https://neartao.wordpress.com/?page_id=2022
+guid: https://neartao.com/?page_id=2022
 parent_post_id: null
 post_id: "2022"
 spay_email: ""

@@ -12,7 +12,7 @@
       <title>Running &#34;The Binding of Isaac: Repentance&#34; natively on Intel based Apple Hardware</title>
       <link>http://localhost:1313/2021/04/04/running-the-binding-of-isaac-repentance-natively-on-intel-based-apple-hardware/</link>
       <pubDate>Mon, 05 Apr 2021 00:34:22 +0000</pubDate>
-       <guid isPermaLink="false">https://neartao.wordpress.com/?p=2520</guid> 
+       <guid isPermaLink="false">https://neartao.com/?p=2520</guid> 
       <description>&lt;p&gt;Alright folks&amp;hellip; normally I don&amp;rsquo;t get into video games on this site, but since Repentance is not going to be supported on Intel based Apple hardware&amp;hellip; well I figured I&amp;rsquo;d write up a tutorial to get you going.&lt;/p&gt;
 &lt;p&gt;For this &amp;ldquo;how to&amp;rdquo;, you&amp;rsquo;ll need to get Crossover for your Mac. Personally, I bought the $59.95 for one year support. Heck, I used to use this product to play games ten or so years ago, so I&amp;rsquo;m a bit familiar with it still. I had lapsed from using it because I had been using Bootcamp so much, but I have subsequently stopped upgrading my Parallels VM, and honestly, games run pretty poorly through Virtual Machines, and I didn&amp;rsquo;t want to be booting into bootcamp to play games.&lt;/p&gt;</description>
     </item>

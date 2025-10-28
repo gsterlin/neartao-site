@@ -24,7 +24,7 @@ cover:
   alt: Beep
   image: /wp-content/uploads/2020/07/beep.png
 date: "2020-07-29T14:55:00+00:00"
-guid: https://neartao.wordpress.com/?p=812
+guid: https://neartao.com/?p=812
 parent_post_id: null
 post_id: "812"
 publicize_tumblr_url: http://.tumblr.com/post/625078447962718208

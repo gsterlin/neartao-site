@@ -20,7 +20,7 @@ enclosure: |-
   https://neartao.files.wordpress.com/2021/11/3-08-new-sample.wav
   2679852
   audio/wav
-guid: https://neartao.wordpress.com/?p=3582
+guid: https://neartao.com/?p=3582
 parent_post_id: null
 post_id: "3582"
 publicize_tumblr_url: http://.tumblr.com/post/668970058907795456

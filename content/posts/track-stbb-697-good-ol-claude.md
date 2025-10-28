@@ -29,7 +29,7 @@ cover:
   alt: IMG_0381
   image: /wp-content/uploads/2019/12/img_0381.jpeg
 date: "2020-07-15T11:47:00+00:00"
-guid: https://neartao.wordpress.com/?p=704
+guid: https://neartao.com/?p=704
 parent_post_id: null
 post_id: "704"
 publicize_tumblr_url: http://.tumblr.com/post/623707419070136320

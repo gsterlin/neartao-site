@@ -26,7 +26,7 @@ cover:
   alt: J1760x1168-08038
   image: /wp-content/uploads/2021/02/j1760x1168-08038.jpg
 date: "2021-02-12T14:12:41+00:00"
-guid: https://neartao.wordpress.com/?p=2233
+guid: https://neartao.com/?p=2233
 parent_post_id: null
 post_id: "2233"
 publicize_tumblr_url: http://.tumblr.com/post/642923013787041792

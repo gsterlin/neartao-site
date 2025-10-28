@@ -5,7 +5,7 @@ categories:
   - leadership
 date: "2020-11-17T11:03:15+00:00"
 draft: "true"
-guid: https://neartao.wordpress.com/?p=1242
+guid: https://neartao.com/?p=1242
 parent_post_id: null
 post_id: "1242"
 title: Retrospectives are Important for Teams

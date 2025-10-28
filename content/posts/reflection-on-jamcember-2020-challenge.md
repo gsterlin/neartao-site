@@ -26,7 +26,7 @@ cover:
   alt: NearTao - Jamcember 2020
   image: /wp-content/uploads/2020/12/neartao-jamcember-2020.png
 date: "2020-12-31T18:51:35+00:00"
-guid: https://neartao.wordpress.com/?p=1534
+guid: https://neartao.com/?p=1534
 parent_post_id: null
 post_id: "1534"
 publicize_tumblr_url: http://.tumblr.com/post/639044891267235840

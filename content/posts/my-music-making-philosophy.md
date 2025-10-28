@@ -5,7 +5,7 @@ categories:
   - music-production
 date: "2021-02-23T18:39:04+00:00"
 draft: "true"
-guid: https://neartao.wordpress.com/?p=2401
+guid: https://neartao.com/?p=2401
 parent_post_id: null
 post_id: "2401"
 title: My Music Making Philosophy

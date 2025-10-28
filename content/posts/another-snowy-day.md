@@ -24,7 +24,7 @@ cover:
   alt: Screen Shot 2021-05-07 at 4.47.12 PM
   image: /wp-content/uploads/2021/05/screen-shot-2021-05-07-at-4.47.12-pm.png
 date: "2021-04-16T20:45:00+00:00"
-guid: https://neartao.wordpress.com/?p=2676
+guid: https://neartao.com/?p=2676
 parent_post_id: null
 post_id: "2676"
 publicize_tumblr_url: http://.tumblr.com/post/650558062808186880
