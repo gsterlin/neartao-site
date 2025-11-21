@@ -62,6 +62,8 @@ For now, I'm going to leave two ways to get in touch with me. First I'm going to
 
 Guide History
 
+[NearTao's SP-404 mk2 Guide 0.38](/wp-content/uploads/2025/11/neartaos-sp-404-mk2-guide-0.38.pdf) [Download](/wp-content/uploads/2025/11/neartaos-sp-404-mk2-guide-0.38.pdf)
+
 [NearTao's SP-404 mk2 Guide 0.36](/wp-content/uploads/2024/11/neartaos-sp-404-mk2-guide-0.36.pdf) [Download](/wp-content/uploads/2024/11/neartaos-sp-404-mk2-guide-0.36.pdf)
 
 [NearTao's SP-404 mk2 Guide 0.33](/wp-content/uploads/2024/05/neartaos-sp-404-mk2-guide-0.33.pdf) [Download](/wp-content/uploads/2024/05/neartaos-sp-404-mk2-guide-0.33.pdf)
